@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Peer Review"
-  url = "/publication"
+  url = "#featured"
   weight = 20
   
 [[main]]
