@@ -43,6 +43,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Connor Scott is a basic neuroscientist with over 7 years of human tissue experience, specialising in bringing traditional histology into the modern era of science by developing workflows to bridge neuropathology with multiple 'omic' technologies using surgical and post-mortem CNS material. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Scroll down to see a brief overview of his academic profile or alternatively click on the headings above to get a more in-depth view.
