@@ -4,7 +4,7 @@ authors:
 - Benjamin C. Tendler, Sean Foxley, Moises Hernandez-Fernandez, Michiel Cottaar, <b>Connor Scott</b>, Olaf Ansorge, Karla Miller, Saad Jbabdi
 date: "2019-02-07T00:00:00Z"
 doi: "https://doi.org/10.1101/861880"
-featured: false
+featured: true
 image: 
   caption: ''
   focal_point: ""
