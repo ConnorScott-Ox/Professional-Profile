@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Recent Research Items"
 subtitle = ""
 
 [content]
@@ -32,7 +32,7 @@ subtitle = ""
     exclude_featured = false
   
 [design]
-  # Toggle between the various page layout types.
+  # Toggle between the various page layout types. 
   #   1 = List
   #   2 = Compact
   #   3 = Card
@@ -45,7 +45,7 @@ subtitle = ""
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
   
-  # Background color.
+  # Background color. 
   # color = "navy"
   
   # Background gradient.
