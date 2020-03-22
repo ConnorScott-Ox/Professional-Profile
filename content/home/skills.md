@@ -38,11 +38,16 @@ subtitle = ""
   name = "Laser Microdissection"
   description = ""
 
+[[feature]]
+  icon = "eye-dropper"
+  icon_pack = "fas"
+  name = "RNAscope / Immunostaining"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Data Analysis / Statistics"
+  name = "Data Analysis"
   description = ""  
 
 [[feature]]
