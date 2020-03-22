@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-dna"
+  icon = "dna"
   icon_pack = "fas"
   name = "qPCR and Sequencing"
   description = ""
@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "microscope"
   icon_pack = "fas"
-  name = "Histology"
+  name = "Immunostaining"
   description = ""
 
 [[feature]]
@@ -35,13 +35,13 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Data Analysis / Statistics"
+  description = ""  
+
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "Coding"
+  description = ""
 
 +++
