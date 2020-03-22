@@ -53,7 +53,7 @@ subtitle = ""
 
 [[feature]]
   icon = "laptop-code"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Programming"
   description = ""
   
