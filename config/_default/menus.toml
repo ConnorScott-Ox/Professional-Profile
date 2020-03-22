@@ -25,7 +25,7 @@
   
 [[main]]
   name = "Conference Abstracts & Posters"
-  url = "#conference"
+  url = "/post"
   weight = 30
   
 [[main]]
