@@ -43,7 +43,8 @@ subtitle = ""
   icon_pack = "fas"
   name = "RNAscope / Immunostaining"
   description = ""
-  
+
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
@@ -51,9 +52,15 @@ subtitle = ""
   description = ""  
 
 [[feature]]
-  icon = "r-project"
+  icon = "laptop-code"
   icon_pack = "fab"
   name = "Programming"
   description = ""
+  
+  [[feature]]
+  icon = "network-wired "
+  icon_pack = "fas"
+  name = "Image Analysis"
+  description = "" 
 
 +++
