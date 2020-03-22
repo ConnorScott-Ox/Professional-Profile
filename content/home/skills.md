@@ -17,13 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "dna"
   icon_pack = "fas"
-  name = "qPCR and Sequencing"
-  description = ""
-
-[[feature]]
-  icon = "microscope"
-  icon_pack = "fas"
-  name = "Immunostaining"
+  name = "qPCR"
   description = ""
 
 [[feature]]
@@ -31,6 +25,19 @@ subtitle = ""
   icon_pack = "fas"
   name = "Neuropathology - Human Tissue"
   description = ""
+  
+ [[feature]]
+  icon = "vials"
+  icon_pack = "fas"
+  name = "Proteomics / Transcriptomics"
+  description = ""
+  
+[[feature]]
+  icon = "microscope"
+  icon_pack = "fas"
+  name = "Laser Microdissection"
+  description = ""
+
   
 [[feature]]
   icon = "chart-line"
@@ -41,7 +48,7 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "Coding"
+  name = "Programming"
   description = ""
 
 +++
