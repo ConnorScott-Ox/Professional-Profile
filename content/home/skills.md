@@ -15,20 +15,20 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "DNA"
-  icon_pack = "fab"
+  icon = "fa-dna"
+  icon_pack = "fas"
   name = "qPCR and Sequencing"
-  description = "q"
+  description = ""
 
 [[feature]]
   icon = "microscope"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Histology"
   description = ""
 
 [[feature]]
   icon = "brain"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Neuropathology - Human Tissue"
   description = ""
   
