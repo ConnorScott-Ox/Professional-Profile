@@ -6,19 +6,18 @@ education:
   courses:
   - course: D.Phil (Oxon) in Clinical Neurosciences
     institution: University of Oxford
-    year: 2021
+    year: pending
   - course: BSc (Hons) in Biomedical Sciences
     institution: University of Greenwich
     year: 2012
 
 email: "connor.scott@ndcn.ox.ac.uk"
 interests:
-- Neuropathology  
-- Neurodegeneration
+- Neuropathology / Neurodegeneration
 - Laser Capture Microdissection
-- Proteomics
-- RNA-seq
+- Virtual Microscopy / Digital Pathology
 - Machine Learning
+- Proteomics / Transcriptomics
 name: Connor Scott
 organizations:
 - name: Nuffield Department of Clinical Neurosciences
@@ -43,6 +42,6 @@ user_groups:
 - Visitors
 ---
 
-Connor Scott is a basic neuroscientist with over 7 years of human tissue experience, specialising in bringing traditional histology into the modern era of science by developing workflows to bridge neuropathology with multiple 'omic' technologies using surgical and post-mortem CNS material. 
+Connor Scott is a basic neuroscientist with over 7 years of human tissue experience, specialising in bringing traditional histology into the modern era by developing workflows to bridge neuropathology with multiple 'omic' technologies using surgical and post-mortem CNS material. 
 
 Scroll down to see a brief overview of his academic profile or alternatively click on the headings above to get a more in-depth view.
