@@ -18,27 +18,38 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Research Assistant"
+  company = "Nuffield Department of Clinical Neurosciences - University of Oxford"
+  company_url = "https://www.ndcn.ox.ac.uk/"
+  location = "Oxford"
+  date_start = "2015-06-01"
+  date_end = "present"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Lead laboratory scientist.
+  * Establishing, supervising and maintaining several core research facilities - Whole Slide Imaging, Automated IHC/ISH, Laser Microdissection.
+  * Specialized scientific training to students (undergraduates/postgraduates) and staff (laboratory technicians, research assistants, post-doctoral researchers).
+  * Supervisory role on several postgraduate/medical school research projects.
+  * 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Oxford Brain Bank Technician"
+  company = "Nuffield Department of Clinical Neurosciences - University of Oxford"
+  company_url = "https://www.ndcn.ox.ac.uk/"
+  location = "Oxford"
+  date_start = "2013-10-01"
+  date_end = "2015-06-01"
+  description = ""
 
 +++
+
+[[experience]]
+  title = "Biomedical Associate"
+  company = "NHS - Oxford University Hospitals"
+  company_url = "https://www.ouh.nhs.uk/services/departments/neurosciences/neuropathology/"
+  location = "Oxford"
+  date_start = "2013-01-01"
+  date_end = "2015-08-01"
+  description = ""
