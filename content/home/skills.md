@@ -46,7 +46,7 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "unity"
+  icon = "flask"
   icon_pack = "fas"
   name = "Molecular Biology"
   description = ""
