@@ -11,7 +11,7 @@ image:
   preview_only: false
 #links:
 #- name: Custom Link
-#  url: http://example.org
+#  url: 
 #projects:
 #- internal-project
 publication: "https://www.biorxiv.org/content/10.1101/861880v1.full"
