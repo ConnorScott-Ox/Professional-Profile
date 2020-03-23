@@ -32,18 +32,24 @@ subtitle = ""
   name = "Proteomics / Transcriptomics"
   description = ""
   
-[[feature]]
-  icon = "microscope"
-  icon_pack = "fas"
-  name = "Laser Microdissection"
-  description = ""
-
-[[feature]]
+  [[feature]]
   icon = "eye-dropper"
   icon_pack = "fas"
   name = "RNAscope / Immunostaining"
   description = ""
 
+  
+[[feature]]
+  icon = "microscope"
+  icon_pack = "fas"
+  name = "Laser Microdissection"
+  description = ""
+  
+[[feature]]
+  icon = "unity"
+  icon_pack = "fas"
+  name = "Molecular Biology"
+  description = ""
 
 [[feature]]
   icon = "chart-line"
