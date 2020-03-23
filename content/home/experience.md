@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Professional History"
 subtitle = ""
 
 # Date format for experience
@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ndcn.ox.ac.uk/"
   location = "Oxford"
   date_start = "2015-06-01"
-  date_end = "present"
+  date_end = ""
   description = """
   Responsibilities include:
   
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   location = "Oxford"
   date_start = "2013-10-01"
   date_end = "2015-06-01"
-  description = ""
+  description = """
 
 +++
 
@@ -52,4 +52,4 @@ date_format = "Jan 2006"
   location = "Oxford"
   date_start = "2013-01-01"
   date_end = "2015-08-01"
-  description = ""
+  description = """
