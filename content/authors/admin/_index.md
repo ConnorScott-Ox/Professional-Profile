@@ -6,7 +6,7 @@ education:
   courses:
   - course: D.Phil (Oxon) in Clinical Neurosciences
     institution: University of Oxford
-    year: pending
+    year: (pending)
   - course: BSc (Hons) in Biomedical Sciences
     institution: University of Greenwich
     year: 2012
@@ -30,9 +30,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ConnorScott_OX
-- icon: fa-researchgate
+- icon: researchgate
   icon_pack: fab
- link: https://www.researchgate.net/profile/Connor_Scott4
+- link: https://www.researchgate.net/profile/Connor_Scott4
 superuser: true
 user_groups:
 - Researchers
