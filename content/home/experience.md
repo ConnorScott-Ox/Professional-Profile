@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   date_end = "2015-06-01"
   description = """
 
-+++
+"""
 
 [[experience]]
   title = "Biomedical Associate"
@@ -53,3 +53,5 @@ date_format = "Jan 2006"
   date_start = "2013-01-01"
   date_end = "2015-08-01"
   description = """
+  
+  """
