@@ -30,7 +30,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ConnorScott_OX
-  - icon: google-scholar
+- icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 superuser: true
