@@ -43,7 +43,7 @@ superuser: true
 user_groups:
 - Researchers
 - Visitors
----
+--- 
 
 Connor Scott is a basic neuroscientist with over 7 years of human tissue experience, specialising in bringing traditional histology into the modern era by developing workflows to bridge neuropathology with multiple 'omic' technologies using surgical and post-mortem CNS material. 
 
