@@ -6,16 +6,16 @@ education:
   courses:
   - course: D.Phil (Oxon) in Clinical Neurosciences
     institution: University of Oxford
-    year: pending
+    year: (pending)
   - course: BSc (Hons) in Biomedical Sciences
     institution: University of Greenwich
     year: 2012
 
 email: "connor.scott@ndcn.ox.ac.uk"
 interests:
-- Neuropathology / Neurodegeneration
+- Neurodegeneration
 - Laser Capture Microdissection
-- Virtual Microscopy / Digital Pathology
+- Digital Pathology
 - Machine Learning
 - Proteomics / Transcriptomics
 name: Connor Scott
@@ -30,12 +30,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ConnorScott_OX
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: researchgate
   icon_pack: fab
-  link: https://github.com/ConnorScott-Ox
+ link: https://www.researchgate.net/profile/Connor_Scott4
 superuser: true
 user_groups:
 - Researchers
