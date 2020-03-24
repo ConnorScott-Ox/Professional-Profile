@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Employment Experience"
 subtitle = ""
 
 # Date format for experience
@@ -52,13 +52,17 @@ date_format = "Jan 2006"
 """
 
 [[experience]]
-  title = "Biomedical Associate"
+  title = "Biomedical Scientist Associate"
   company = "NHS - Oxford University Hospitals"
   company_url = "https://www.ouh.nhs.uk/services/departments/neurosciences/neuropathology/"
   location = "Oxford"
   date_start = "2013-01-01"
   date_end = "2015-08-01"
-  description = """  test """
+  description = """ Laboratory support for the Neuropathology and Ocular Pathology Department
+* Assisting in CNS Dissection
+* Maintaining Stocks and preparing buffes/dyes
+* Daily communication with coroners and healthcare professionals
+"""
 
 
 +++
