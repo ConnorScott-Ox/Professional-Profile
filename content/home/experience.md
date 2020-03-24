@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
- * Lead laboratory scientist.
+ * Senior Research Scientist.
  * Establishing, supervising and maintaining several core research facilities - Whole Slide Imaging, Automated IHC/ISH, Laser Microdissection. 
  * Specialized scientific training to students (undergraduates/postgraduates) and staff (laboratory technicians, research assistants, post-doctoral researchers).  
  * Supervisory role on several postgraduate/medical school research projects.
