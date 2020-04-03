@@ -32,13 +32,13 @@ social:
   link: https://twitter.com/ConnorScott_OX
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.researchgate.net/profile/Connor_Scott4
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 --- 
 
-Connor Scott is a basic neuroscientist with over 7 years of working human tissue experience, specialising in bringing traditional histology into the modern era by developing workflows to bridge neuropathology with multiple 'omic' technologies using surgical and post-mortem CNS material. 
+Connor Scott is a neuroscientist with over 7 years of working human tissue experience, specialising in bringing traditional histology into the modern era by developing workflows to bridge neuropathology with multiple 'omic' technologies using surgical and post-mortem CNS material. 
 
 Scroll down to see a brief overview of his academic profile or alternatively click on the headings above to get a more in-depth view.
