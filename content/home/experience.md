@@ -28,12 +28,25 @@ date_format = "Jan 2006"
   Responsibilities include:
   
  * Senior Research Scientist.
+ 
  * Establishing, supervising and maintaining several core research facilities - Whole Slide Imaging, Automated IHC/ISH, Laser Microdissection. 
+ 
  * Specialized scientific training to students (undergraduates/postgraduates) and staff (laboratory technicians, research assistants, post-doctoral researchers).  
+ 
  * Supervisory role on several postgraduate/medical school research projects.
+ 
+ 
+ -------------------------------------------------
+ 
+ Other related roles:
+ 
  * Served 3 years on NDCN's Personnel Committee - responsible for all personnel and equality matters connected with the employment of the University's employees; approving pay rises, tracking staff performance and reviewing employee retention case.
+ 
   * Athena SWAN Champion - ensuring departmental good practuces towards the advancement of gender equality, representation, progression and success for all.
- * NDCN Public Engagement Ambassador.
+  
+  * Oxford Brain Bank Ethical Board Committee. 
+  
+  * NDCN Public Engagement Ambassador.
 """
 	
 [[experience]]
@@ -46,9 +59,9 @@ date_format = "Jan 2006"
   description = """ 
   Provided laboratory support for the Oxford Brain Bank, including:
   
-  * Routine immunostaining for diagnosing neurodegeneration
-  * Human CNS Dissection
-  * Interviewing and Training new staff
+  * Routine immunostaining for diagnosing neurodegeneration.
+  * Human CNS Dissection.
+  * Interviewing and Training new staff.
 """
 
 [[experience]]
