@@ -93,7 +93,7 @@ address = {street = "Neuropathology Department, Level One, West Wing, John Radcl
 coordinates = {latitude = "51.765249", longitude = "-1.222526"}
 
 # Directions for visitors to locate you.
-directions = "Enter either west wing or children's hospital, go to level one and ring the bell."
+directions = "Enter either West Wing or Children's Hospital Entrance, go to Level One and ring the bell."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -106,7 +106,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/ConnorScott_OX"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:live:connor.scott_8?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
@@ -120,7 +120,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "ConnorScott_OX"
 
 ############################
 ## Regional Settings
