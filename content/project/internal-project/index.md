@@ -32,7 +32,7 @@ https://www.bns.org.uk/eqa-scheme/   <br>
 <br>
 
 <p float="left">
-  <img src="https://www.bns.org.uk/wp-content/uploads/2019/02/Image-6-300x380.jpg" width="500" />
-  <img src="https://www.bns.org.uk/wp-content/uploads/2019/02/gfap-delata-fcd-Copy-300x380.jpg" width="500" /> 
-  <img src="https://www.bns.org.uk/wp-content/uploads/2019/02/Image-2-300x380.jpg" width="500" />
+  <img src="https://www.bns.org.uk/wp-content/uploads/2019/02/Image-6-300x380.jpg" width="250" />
+  <img src="https://www.bns.org.uk/wp-content/uploads/2019/02/gfap-delata-fcd-Copy-300x380.jpg" width="250" /> 
+  <img src="https://www.bns.org.uk/wp-content/uploads/2019/02/Image-2-300x380.jpg" width="250" />
 </p>
