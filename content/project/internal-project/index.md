@@ -23,9 +23,15 @@ url_video: ""
 
 <b>Aims and Purpose of the Scheme</b>
 
-The aim of the scheme is both educational and to identify poor performace in interpretive skills of participating neuropathologists. Neuropathologists compare their diagnostic skills with those of their peers. The feedback helps them to learn and improve. It also helps to maintain competence of consultants in Neuropathology and provides evidence of continuing professional development.
-https://www.bns.org.uk/eqa-scheme/
-<b>My Role:</b>
+The aim of the scheme is both educational and to identify poor performace in interpretive skills of participating neuropathologists. Neuropathologists compare their diagnostic skills with those of their peers. The feedback helps them to learn and improve. It also helps to maintain competence of consultants in Neuropathology and provides evidence of continuing professional development. <br>
+<br>
+https://www.bns.org.uk/eqa-scheme/   <br>
+<br>
+
+<b>My Role:</b> <br>
+<br>
+
+![alt-text-1](https://www.bns.org.uk/wp-content/uploads/2019/02/Image-6-300x380.jpg "title-1") ![alt-text-2]https://www.bns.org.uk/wp-content/uploads/2019/02/gfap-delata-fcd-Copy-300x380.jpg "title-2")
 
 ![Image description](https://www.bns.org.uk/wp-content/uploads/2019/02/Image-6-300x380.jpg)
 ![Image description](https://www.bns.org.uk/wp-content/uploads/2019/02/gfap-delata-fcd-Copy-300x380.jpg)
