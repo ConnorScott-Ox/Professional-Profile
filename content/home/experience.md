@@ -28,33 +28,34 @@ date_format = "Jan 2006"
   Responsibilities include: <br>
   <br>
   
- * Senior Research Scientist.
+ * Senior Research Scientist. <br>
+  <br>
  
+ * Establishing, supervising and maintaining several core research facilities - Whole Slide Imaging, Automated IHC/ISH, Laser Microdissection.  <br>
+  <br>
  
- * Establishing, supervising and maintaining several core research facilities - Whole Slide Imaging, Automated IHC/ISH, Laser Microdissection. 
- 
- 
- * Specialized scientific training to students (undergraduates/postgraduates) and staff (laboratory technicians, research assistants, post-doctoral researchers).  
- 
+ * Specialized scientific training to students (undergraduates/postgraduates) and staff (laboratory technicians, research assistants, post-doctoral researchers).   <br>
+  <br>
  
  * Supervisory role on several postgraduate/medical school research projects.
  
  
  -------------------------------------------------
  
- Other related roles:
+ Other related roles: <br>
+  <br>
  
+ * Served 3 years on NDCN's Personnel Committee - responsible for all personnel and equality matters connected with the employment of the University's employees; approving pay rises, tracking staff performance and reviewing employee retention case. <br>
+  <br>
  
- * Served 3 years on NDCN's Personnel Committee - responsible for all personnel and equality matters connected with the employment of the University's employees; approving pay rises, tracking staff performance and reviewing employee retention case.
- 
- 
-  * Athena SWAN Champion - ensuring departmental good practuces towards the advancement of gender equality, representation, progression and success for all.
+  * Athena SWAN Champion - ensuring departmental good practuces towards the advancement of gender equality, representation, progression and success for all. <br>
+   <br>
   
+  * Oxford Brain Bank Ethical Board Committee.  <br>
+   <br>
   
-  * Oxford Brain Bank Ethical Board Committee. 
-  
-  
-  * NDCN Public Engagement Ambassador.
+  * NDCN Public Engagement Ambassador. <br>
+   <br>
 """
 	
 [[experience]]
