@@ -24,9 +24,9 @@ Somerville College - orginally a woman only college and more recently the first 
 <br>
 <b>As Social Secretary I was responsible for:</b> <br>
 <br>
-i. Creating and Coordinating all social events for the graduates throughout the academic year. (Averaging 3 per week) <br>
+i. Creating and Coordinating social events for the graduates throughout the academic year. (Averaging 3 per week) <br>
 <br>
-ii. Organising exchange events between different University of Oxford Colleges - including formal dinners and wine and cheese events.<br>
+ii. Organising exchange events between different University of Oxford Colleges - including drink receptions, formal dinners and wine and cheese events.<br>
 <br>
-iii. Organizing Fresher’s Week: welcoming/inducting new students into life in Oxford and being the designated main point of contact.<br>
+iii. Organizing Fresher’s Week: Arranging induction and social induction events, welcoming new students and helping them adjust to life in Oxford and being the designated main point of contact during their first few weeks.<br>
 ![](ball.jpg)
