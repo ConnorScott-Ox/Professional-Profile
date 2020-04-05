@@ -7,7 +7,7 @@ image:
 links:
 # - icon: twitter
 #  icon_pack: fab
-#  name: Follow
+  name: Website
   url: https://www.some.ox.ac.uk/
 slides: 
 summary: President of the graduate students at one of University of Oxford's colleges - Somerville College.
