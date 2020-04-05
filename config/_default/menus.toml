@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Extracurricular"
-  url = "/project"
+  url = "#projects"
   weight = 10
 
 [[main]]
