@@ -8,7 +8,7 @@ image:
 # - icon: graduation-cap
 # - url: "https://www.some.ox.ac.uk/"
 slides: 
-summary: Social Secretary  - Somerville College.
+summary: Social Secretary  - Somerville College. <i> Click for more information. </i>
 tags:
 - Leadership
 title: University of Oxford, Social Secretary.
