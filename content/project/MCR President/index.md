@@ -42,6 +42,6 @@ vii. Resolving/Relaying serious welfare concerns to the appropriate individuals.
 <br>
 viii. Creating, enforcining and maintaining policies involving our Graduate Student Body. <br>
 
-![](Sommerville banner.jpg)
+![Somerville](Sommerville banner.jpg)
 
 
