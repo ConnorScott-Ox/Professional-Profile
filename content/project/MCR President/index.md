@@ -4,9 +4,9 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-links:
- - icon: graduation-cap
- - url: https://www.some.ox.ac.uk/
+#links:
+# - icon: graduation-cap
+# - url: https://www.some.ox.ac.uk/
 slides: 
 summary: President of graduate students at one of University of Oxford's colleges - Somerville College.
 tags:

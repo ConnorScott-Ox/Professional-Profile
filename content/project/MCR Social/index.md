@@ -4,14 +4,14 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-links:
- - icon: graduation-cap
- - url: "https://www.some.ox.ac.uk/"
+#links:
+# - icon: graduation-cap
+# - url: "https://www.some.ox.ac.uk/"
 slides: 
-summary: President of graduate students at one of University of Oxford's colleges - Somerville College.
+summary: Social Secretary  - Somerville College.
 tags:
 - University of Oxford
-title: University of Oxford, Graduate President.
+title: University of Oxford, Social Secretary.
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -29,3 +29,4 @@ i. Creating and Coordinating all social events for the graduates throughout the 
 ii. Organising exchange events between different University of Oxford Colleges - including formal dinners and wine and cheese events.<br>
 <br>
 iii. Organizing Fresher’s Week: welcoming/inducting new students into life in Oxford and being the designated main point of contact.<br>
+![](Somerville-College_Dining-Hall_01-1.jpg)
