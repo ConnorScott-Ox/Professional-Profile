@@ -6,8 +6,6 @@ image:
   focal_point: Smart
 links:
  - icon: graduation-cap
- - icon_pack: fas
- - name: Website
  - url: https://www.some.ox.ac.uk/
 slides: 
 summary: President of graduate students at one of University of Oxford's colleges - Somerville College.
@@ -22,13 +20,11 @@ url_video: ""
 
 Founded in ~1248, the University of Oxford is a collegiate research university comprising of thrity-nine colleges. <br>
 
-Somerville College - orginally a woman only college and more recently the first nondeminational college - is known for its varied architecture and liberal atmosphere. Containing one of the largest libararies in the University of Oxford, 1/3 internation students and over half the students coming from state highschools with net assets of ~£225 million (7th highest) and an annual endowment of £80.6 million; Somerville remains one of the highest ranked in student satifaction.<br>
+Somerville College - orginally a woman only college and more recently the first nondeminational college - is known for its varied architecture and liberal atmosphere. Containing one of the largest libararies in the University of Oxford, 1/3 internation students and over half the students coming from state highschools with net assets of ~£225 million (7th highest) and an annual endowment of £80.6 million; Somerville remains one of the highest ranked in student satifaction. <br>
 <br>
-The Somerville Middle Common Room (MCR) is the name given to the graduate body for postgraduate students at Somerville. <br>
+The Somerville Middle Common Room (MCR) is the name given to the graduate body for postgraduate students at Somerville. <br> Postgraduates at Somerville come from a diverse background, both academically and geographically, with members coming to Oxford from all over the world. Somerville is an excellent place to work and study, and its friendly and tight knit community make it a wonderful place to call home during your studies.<br>
 <br>
-Postgraduates at Somerville come from a diverse background, both academically and geographically, with members coming to Oxford from all over the world. Somerville is an excellent place to work and study, and its friendly and tight knit community make it a wonderful place to call home during your studies.<br>
-<br>
-As MCR President I was responsible for: <br>
+<b>As MCR President I was responsible for:</b> <br>
 <br>
 i. Ensuring the smooth running and development of the Graduate community. <br>
 <br>
