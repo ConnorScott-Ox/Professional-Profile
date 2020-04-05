@@ -29,4 +29,4 @@ i. Creating and Coordinating all social events for the graduates throughout the 
 ii. Organising exchange events between different University of Oxford Colleges - including formal dinners and wine and cheese events.<br>
 <br>
 iii. Organizing Fresher’s Week: welcoming/inducting new students into life in Oxford and being the designated main point of contact.<br>
-![](Somerville-College_Dining-Hall_01-1.jpg)
+![](ball.jpg)
