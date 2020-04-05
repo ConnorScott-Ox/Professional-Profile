@@ -33,6 +33,11 @@ subtitle = ""
     name = "Professional"
     tag = "Professional"
 
+  [[content.filter_button]]
+    name = "Volunteering"
+    tag = "Volunteering"
+
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

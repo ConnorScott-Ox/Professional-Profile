@@ -1,5 +1,5 @@
 ---
-#date: "2018-02-25T00:00:00Z"
+date: "2019-02-25T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -8,10 +8,10 @@ image:
 # - icon: graduation-cap
 # - url: https://www.some.ox.ac.uk/
 slides: 
-summary: 
+summary: Maidstone & Tunbridge Wells NHS Trust.
 tags:
-- Volunteering
-title: Fundraiser  - London Air Ambulance.
+- Professional
+title: Various Public Open Days.
 url_code: ""
 url_pdf: ""
 url_slides: ""
