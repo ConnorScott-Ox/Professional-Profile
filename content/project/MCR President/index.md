@@ -7,8 +7,8 @@ image:
 links:
  - icon: graduation-cap
  - icon_pack: fas
- name: Website
- url: https://www.some.ox.ac.uk/
+ - name: Website
+ - url: https://www.some.ox.ac.uk/
 slides: 
 summary: President of graduate students at one of University of Oxford's colleges - Somerville College.
 tags:
