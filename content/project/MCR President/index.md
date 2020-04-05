@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 links:
  - icon: graduation-cap
-  icon_pack: fab
+ icon_pack: fas
  name: Website
  url: https://www.some.ox.ac.uk/
 slides: 
