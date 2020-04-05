@@ -28,15 +28,15 @@ date_format = "Jan 2006"
   date_end = "2022-01-22"
   description = "For work to support the advancement of Neuropathology."
 
-#[[item]]
- # organization = "edX"
-  #organization_url = "https://www.edx.org"
-  #title = "Blockchain Fundamentals"
-  #url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  #certificate_url = "https://www.edx.org"
-  #date_start = "2018-03-01"
-  #date_end = ""
-  #description = "Formulated informed blockchain models, hypotheses, and use cases."
+[[item]]
+  organization = "Nuffield Department of Clinical Neurosciences"
+  organization_url = ""
+  title = "Public Engagement Award - £1000"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-06-18"
+  date_end = ""
+  description = "Grant awarded to allow us to partake in an educational programme allowing us to perform fun hands-on science experiments and explain our research to young underprivalaged school children"
   
 #[[item]]
 #  organization = "DataCamp"
