@@ -12,7 +12,7 @@ links:
 slides: 
 summary: The Neuropathology EQA scheme (NEQAS) forms part of a national system of quality assurance to healthcare organisations that is being maintained and improved.
 tags:
-- Quality Assurance
+- Professional
 title: Neuropath EQA scheme (NEQAS)
 url_code: ""
 url_pdf: ""

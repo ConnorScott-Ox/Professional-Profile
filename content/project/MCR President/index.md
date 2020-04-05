@@ -10,7 +10,7 @@ image:
 slides: 
 summary: President of graduate students at one of University of Oxford's colleges - Somerville College.
 tags:
-- University of Oxford
+- Leadership
 title: University of Oxford, Graduate President.
 url_code: ""
 url_pdf: ""

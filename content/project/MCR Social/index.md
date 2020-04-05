@@ -10,7 +10,7 @@ image:
 slides: 
 summary: Social Secretary  - Somerville College.
 tags:
-- University of Oxford
+- Leadership
 title: University of Oxford, Social Secretary.
 url_code: ""
 url_pdf: ""
