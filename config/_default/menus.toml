@@ -15,12 +15,12 @@
 
 [[main]]
   name = "Extracurricular"
-  url = "#projects"
+  url = "/projects"
   weight = 10
 
 [[main]]
   name = "Peer Review"
-  url = "#featured"
+  url = "/publications"
   weight = 20
   
 [[main]]
