@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   * Athena SWAN Champion - ensuring departmental good practuces towards the advancement of gender equality, representation, progression and success for all. <br>
    <br>
   
-  * Oxford Brain Bank Ethical Board Committee.  <br>
+  * Oxford Brain Bank Ethical Board Committee Member.  <br>
    <br>
   
   * NDCN Public Engagement Ambassador. <br>
