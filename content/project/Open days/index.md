@@ -1,5 +1,5 @@
 ---
-date: "2019-02-25T00:00:00Z"
+#date: "2019-02-25T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -8,7 +8,7 @@ image:
 # - icon: graduation-cap
 # - url: https://www.some.ox.ac.uk/
 slides: 
-summary: Maidstone & Tunbridge Wells NHS Trust.
+summary: 
 tags:
 - Professional
 title: Various Public Open Days.

@@ -8,7 +8,7 @@ image:
 # - icon: graduation-cap
 # - url: https://www.some.ox.ac.uk/
 slides: 
-summary: Maidstone & Tunbridge Wells NHS Trust.
+summary: 
 tags:
 - Volunteering
 title: Healthcare Assistant - Acute Elderly Ward.
