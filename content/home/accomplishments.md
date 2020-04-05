@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-01-22"
   date_end = "2022-01-22"
-  description = "For work to support the advancement of Neuropathology."
+  description = "For research to support the advancement of Neuropathology. In this case - Single cell RNA-Sequencing of post-mortem motor neurons."
 
 [[item]]
   organization = "Nuffield Department of Clinical Neurosciences"
