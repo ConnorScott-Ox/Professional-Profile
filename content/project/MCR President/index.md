@@ -41,6 +41,6 @@ vi. Maintaining and building relationships with other colleges, along with Somer
 vii. Resolving/Relaying serious welfare concerns to the appropriate individuals. <br>
 <br>
 viii. Creating, enforcining and maintaining policies involving our Graduate Student Body. <br>
-<br>
+![](Sommerville banner.jpg)
 
 
