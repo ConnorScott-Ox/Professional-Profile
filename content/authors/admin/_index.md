@@ -6,7 +6,7 @@ education:
   courses:
   - course: D.Phil (Oxon) in Clinical Neurosciences
     institution: University of Oxford
-    year: (pending)
+    year: (current)
   - course: BSc (Hons) in Biomedical Sciences
     institution: University of Greenwich
     year: 2012
@@ -39,6 +39,6 @@ user_groups:
 - Visitors
 --- 
 
-Connor Scott is a neuroscientist with over 7 years of working human tissue experience, specialising in bringing traditional histology into the modern era by developing workflows to bridge neuropathology with multiple 'omic' technologies using surgical and post-mortem CNS material. 
+Connor Scott is a neuroscientist with over 7 years of human tissue experience, specialising in bringing traditional histology into the modern era by developing workflows to bridge neuropathology with multiple 'omic' technologies using surgical and post-mortem CNS material. 
 
 Scroll down to see a brief overview of his academic profile or alternatively click on the headings above to get a more in-depth view.

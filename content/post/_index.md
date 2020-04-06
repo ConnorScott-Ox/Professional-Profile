@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Recent Research Items
+title: Conference posters/abstracts
 view: 2 
 ---

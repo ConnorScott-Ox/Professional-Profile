@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Responsibilities include: <br>
   <br>
   
- * Senior Research Scientist. <br>
+ * Senior Research Scientist - Working on projects relating to Biomarker Discovery, Single-cell Classification, Cancer Research, Motor Neuron Disease and Alzheimer's Disease.<br>
   <br>
  
  * Establishing, supervising and maintaining several core research facilities - Whole Slide Imaging, Automated IHC/ISH, Laser Microdissection.  <br>
