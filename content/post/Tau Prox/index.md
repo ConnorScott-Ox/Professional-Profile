@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-04-05T00:00:00Z"
-summary: Presented at 121st Meeting of the British Neuropathological Society, Developmental Neuropathology Symposium, 4th – 6th March 2020. <i>Published Poster - Journal of Neuropathology and Applied Neurobiology.</i>
+summary: Presented at 121st Meeting of the British Neuropathological Society, Developmental Neuropathology Symposium, 4th – 6th March 2020. <b><i>Published Poster - Journal of Neuropathology and Applied Neurobiology.</i></b>
 tags:
 - Source Themes
 title: Understanding the pathophysiological role of early tau aggregates in Alzheimer's disease by their direct visualisation in situ

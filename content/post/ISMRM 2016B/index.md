@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2016-05-07"
-summary:  <i>Article and Poster -  International Society for Magnetic Resonance in Medicine (ISMRM) 24th Annual Meeting & Exhibition, Session - Diffusionm, May 07th - 13th, 2016 </i>
+summary:  <i>Article and Poster -  International Society for Magnetic Resonance in Medicine (ISMRM) 24th Annual Meeting & Exhibition, Session - Diffusion, May 07th - 13th, 2016 </i>
 tags:
 - Source Themes
 title: A comparison of multiple acquisition strategies to overcome B1 inhomogeneities in diffusion imaging of post-mortem human brain at 7T

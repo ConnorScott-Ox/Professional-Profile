@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-12-04" 
-summary:  <i> Published Article (Journal of Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration, volume 20, S1, November 2019) and Poster -  30th International Symposium on ALS/MND, December 4th - 6th, 2019 </i>
+summary:  <b><i> Published Article (Journal of Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration, volume 20, S1, November 2019) and Poster -  30th International Symposium on ALS/MND, December 4th - 6th, 2019 </i></b>
 tags:
 - Source Themes
 title: Detection and quantification of pathological C-terminal TDP-43 fragments in post mortem brain tissue
