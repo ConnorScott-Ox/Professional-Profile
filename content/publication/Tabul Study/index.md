@@ -21,7 +21,7 @@ tags:
 title: Is vascular endothelial growth factor a useful biomarker in giant cell arteritis?
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5372063/pdf/rmdopen-2016-000353.pdf
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""

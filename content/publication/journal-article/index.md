@@ -21,7 +21,7 @@ tags:
 title: Development of a Sensitive, Scalable Method for Spatial, Cell-Type-Resolved Proteomics of the Human Brain
 url_code: ""
 url_dataset: ""
-url_pdf: https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.8b00981
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""

@@ -21,7 +21,7 @@ tags:
 title: Single-copy expression of an amyotrophic lateral sclerosis-linked TDP-43 mutation (M337V) in BAC transgenic mice leads to altered stress granule dynamics and progressive motor dysfunction
 url_code: ""
 url_dataset: ""
-url_pdf: https://reader.elsevier.com/reader/sd/pii/S0969996118306600?token=F5967986D348E84E2EE1C26F4D6EE0381D118CCF7674C5EB367204E794D802AC9EE684A3C7384F8671B09EE3CAEB7B76
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""
