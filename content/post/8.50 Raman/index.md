@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2016-10-05T00:00:00Z"
-summary: Investigated the feasibility of using Raman spectroscopy to differentiate between IDH1 positive (IDH1 + ) and negative (IDH1 - ) tumours through classification modelling. <i>Published Article - Journal of Neuro-Oncology (Volume 18) </i>
+summary: Investigated the feasibility of using Raman spectroscopy to differentiate between IDH1 positive (IDH1 + ) and negative (IDH1 - ) tumours through classification modelling. <b><i>Published Article - Journal of Neuro-Oncology (Volume 18) </i></b>
 tags:
 - Source Themes
 title: Raman spectroscopy for the identification of isocitrate dehydrogenase (IDH) mutated glioblastomas. 
