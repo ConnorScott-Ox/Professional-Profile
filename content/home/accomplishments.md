@@ -38,6 +38,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Grant awarded to allow us to partake in an educational programme allowing us to perform fun hands-on science experiments and explain our research to young underprivalaged school children."
   
+  [[item]]
+  organization = "University of Greenwich"
+  organization_url = "https://www.gre.ac.uk/"
+  title = "Partnership Progression Scholarship"
+  url = "https://www.gre.ac.uk/finance/funding-your-studies/scholarships-and-bursaries"
+  certificate_url = ""
+  date_start = "2011-01-22"
+  date_end = "2011-01-22"
+  description = "This Scholarship is awarded to the 10 highest achieving students that achieve a first class honours in all academic years during their studies."
+  
 #[[item]]
 #  organization = "DataCamp"
 #  organization_url = "https://www.datacamp.com"
