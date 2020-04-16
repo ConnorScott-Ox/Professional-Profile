@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   <br>
   
  * Senior Research Scientist. <br>
- <b>Current projects:</b> <b>(1)</b> <i>selective vulnerability in amyotrophic lateral sclerosis, </i> <b>(2)</b> <i>early detection of Alzheimer’s Disease,</i> <b>(3)</b> <i>novel biomarker discovery in Alzheimer’s disease </i>, <b>(4)</b> <i>microproteomics of rare neuronal cell types/tumour samples,</i> <b>(5)</b> <i>genetic classification of gliomas,</i> <b>(6)</b> <i>High resolution MRI scanning.</i> <br>
+ <b>Current projects:</b> <b>(1)</b> <i>selective vulnerability in amyotrophic lateral sclerosis, </i> <b>(2)</b> <i>early detection of Alzheimer’s Disease,</i> <b>(3)</b> <i>novel biomarker discovery in Alzheimer’s disease,</i> <b>(4)</b> <i>microproteomics of rare neuronal cell types/tumour samples,</i> <b>(5)</b> <i>genetic classification of gliomas,</i> <b>(6)</b> <i>High-resolution MRI scanning.</i> <br>
   <br>
  
  * Establishing, supervising, providing training, and maintaining several core research facilities within NDCN - Whole Slide Imaging, Automated IHC/ISH, Laser Microdissection. <br>
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
  * Specialized training to students (undergraduates/postgraduates) and professionals (laboratory technicians, research assistants, post-doctoral researchers).   <br>
   <br>
  
- * Supervisory role on several FHS research projects; both for medical students and undergraduates. Experience managing students, determining project direction, placing deadlines, managing student concerns, and helping students reach their personal targets.
+ * Supervisory role on several FHS research projects; both for medical students and undergraduates. Experience managing students, determining project direction, placing deadlines, managing student concerns, and helping students reach their targets.
  
  
  -------------------------------------------------
@@ -48,16 +48,16 @@ date_format = "Jan 2006"
  Other related roles: <br>
   <br>
  
- * Served 3 years on NDCN's Personnel Committee - responsible for all personnel and equality matters connected with the employment of the University's employees; approving pay rises, tracking staff performance and reviewing employee retention case. <br>
+ * Served 3 years on NDCN's Personnel Committee - responsible for all personnel and equality matters connected with the employment of the University's employees; approving pay rises, tracking staff performance and reviewing employee retention cases. <br>
   <br>
  
-  * Athena SWAN Champion - ensuring departmental good practuces towards the advancement of gender equality, representation, progression and success for all. <br>
+  * Athena SWAN Champion - ensuring departmental good practices towards the advancement of gender equality, representation, progression and success for all. <br>
    <br>
   
   * Oxford Brain Bank Ethical Board Committee Member.  <br>
    <br>
   
-  * NDCN Public Engagement Ambassador - Hosting events for the general public such as regular open days; Invited adults/patients, schoolchildren and university students come to our department and I explain neuroscience as it relates to physiology and disease, including the importance of neuroscience research.  <br>
+  * NDCN Public Engagement Ambassador - Hosting events for the general public such as regular open days; Invited adults/patients, schoolchildren, and university students come to our department and I explain neuroscience as it relates to physiology and disease, including the importance of neuroscience research.  <br>
    <br>
 """
 	
@@ -73,7 +73,7 @@ date_format = "Jan 2006"
   
   * Human Brain Dissection.
   * Preforming protein assays to diagnose neurodegenerative diseases in donors.
-  * Performing DNA sequencing on patients to determine prognosis of brain tumours.
+  * Performing DNA sequencing on patients to determine the prognosis of brain tumours.
   * Interviewing, teaching and training new staff.
 """
 

@@ -18,11 +18,11 @@ url_slides: ""
 url_video: ""
 ---
 
-Founded in ~1248, the University of Oxford is a collegiate research university comprising of thrity-nine colleges. <br>
+Founded in ~1248, the University of Oxford is a collegiate research university comprising of thirty-nine colleges. <br>
 
-Somerville College - orginally a woman only college and more recently the first nondeminational college - is known for its varied architecture and liberal atmosphere. Containing one of the largest libararies in the University of Oxford, 1/3 international students, half of students coming from state highschools along with net assets of ~£225 million (7th highest) and an annual endowment of £80.6 million; Somerville remains one of the highest ranked in student satifaction. <br>
+Somerville College - originally a woman only college and more recently the first non-denominational college - is known for its varied architecture and liberal atmosphere. Containing one of the largest libraries in the University of Oxford, 1/3 international students, half of students coming from state high schools along with net assets of ~£225 million (7th highest) and an annual endowment of £80.6 million; Somerville remains one of the highest-ranked in student satisfaction. <br>
 <br>
-The Somerville Middle Common Room (MCR) is the name given to the graduate body for postgraduate students at Somerville. Postgraduates at Somerville come from a diverse background, both academically and geographically, with members coming to Oxford from all over the world. Somerville is an excellent place to work and study, and its friendly and tight knit community make it a wonderful place to call home during your studies.<br>
+The Somerville Middle Common Room (MCR) is the name given to the graduate body for postgraduate students at Somerville. Postgraduates at Somerville come from a diverse background, both academically and geographically, with members coming to Oxford from all over the world. Somerville is an excellent place to work and study, and its friendly and tight-knit community make it a wonderful place to call home during your studies.<br>
 <br>
 <b>As MCR President I was responsible for:</b> <br>
 <br>

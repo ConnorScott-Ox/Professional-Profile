@@ -18,7 +18,7 @@ url_slides: ""
 url_video: ""
 ---
 
-For 6 Months I volunteered in an Ellenor Hospice. The primary objective was to
+For 6 months I volunteered in an Ellenor Hospice. The primary objective was to
 make patients as comfortable as possible while they received palliative care.
 
 

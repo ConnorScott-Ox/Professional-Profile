@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-01-22"
   date_end = "2022-01-22"
-  description = "For research to support the advancement of Neuropathology. In this case - Single cell RNA-Sequencing of post-mortem motor neurons."
+  description = "For research to support the advancement of Neuropathology. In this case - Single-cell RNA-Sequencing of post-mortem motor neurons."
 
 [[item]]
   organization = "Nuffield Department of Clinical Neurosciences"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-06-18"
   date_end = ""
-  description = "Grant awarded to allow us to partake in an educational programme allowing us to perform fun hands-on science experiments and explain our research to young underprivalaged school children."
+  description = "Grant awarded to allow us to partake in an educational programme allowing us to perform fun hands-on science experiments and explain our research to young underprivileged school children."
   
   [[item]]
   organization = "Nuffield Department of Clinical Neurosciences"
@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2011-01-22"
   date_end = "2011-01-22"
-  description = "This Scholarship is awarded to the 10 highest achieving students that achieve a first class honours in all academic years during their studies."
+  description = "This Scholarship is awarded to the 10 highest achieving students that achieve a first-class honour in all academic years during their studies."
   
 #[[item]]
 #  organization = "DataCamp"

@@ -22,6 +22,6 @@ For 6 months I volunteered in this NHS ward. My primarily goal was to ensure all
 comfortable and happy with their stay. I would frequently join ward rounds and sit down with
 patients and discuss how they were feeling/discussed what we could do to make their stay more comfortable on top of just being a friendly face for them to talk to. 
 <br>
-I routinuely took vitals and recorded them in the patient's notes.
+
 
 
