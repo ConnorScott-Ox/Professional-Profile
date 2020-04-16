@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 #links:
 # icon: graduation-cap
-url: "https://cslide.medsci.ox.ac.uk/items/view/1005"
+#url: "https://cslide.medsci.ox.ac.uk/items/view/1005"
 slides: 
 summary: Digital microscopist for these historic collections.<i> Click for more information. </i>
 tags:
@@ -23,5 +23,5 @@ Using our digital pathology platform we were able to digitise the invaluable mic
 <br>
 The University of Oxford holds a number of historically important slides, including collections from Sir Charles Sherrington and Sir Wilfrid Le Gros Clark. The Sherrington collection contains examples of a lifetime of work understanding the CNS, including slides related to original breakthroughs such as cortical localization in the brain. The Le Gros Clark collection holds brain sections which may be linked to his topological mapping of the main sensory areas of the cerebral cortex and the different nuclei of the thalamus. There is also a superb collection of clinical neurological cases with case histories.
 <br>
-These collections are being digitised and made available online as part of a project funded by the Wellcome Trust and FENS. The slides are being made available through CSlide, a system for displaying high-resolution, zoomable, digital microscope slides and collecting information relating to these slides and their creators.
+These collections are being digitised and made available online as part of a project funded by the Wellcome Trust and FENS. The slides are being made available through [CSlide](https://cslide.medsci.ox.ac.uk/items/view/1005 "CSlide Collection"), a system for displaying high-resolution, zoomable, digital microscope slides and collecting information relating to these slides and their creators.
 ![](sherrington.jpg)
