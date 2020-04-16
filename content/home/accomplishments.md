@@ -39,6 +39,16 @@ date_format = "Jan 2006"
   description = "Grant awarded to allow us to partake in an educational programme allowing us to perform fun hands-on science experiments and explain our research to young underprivalaged school children."
   
   [[item]]
+  organization = "Nuffield Department of Clinical Neurosciences"
+  organization_url = "https://oxfordbrc.nihr.ac.uk/funding/research-training-bursaries/"
+  title = "NIHR Oxford Biomedical Research Centre Training Bursary - £5000"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-04-23"
+  date_end = ""
+  description = "This scheme funds short courses or modules which will provide training and expertise in research skills or research management. "
+  
+  [[item]]
   organization = "University of Greenwich"
   organization_url = "https://www.gre.ac.uk/"
   title = "Partnership Progression Scholarship"

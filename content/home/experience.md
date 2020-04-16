@@ -28,16 +28,18 @@ date_format = "Jan 2006"
   Responsibilities include: <br>
   <br>
   
- * Senior Research Scientist - Working on projects relating to Biomarker Discovery, Single-cell Classification, Cancer Research, Motor Neuron Disease and Alzheimer's Disease.<br>
+ * Senior Research Scientist.<br>
   <br>
  
- * Establishing, supervising and maintaining several core research facilities - Whole Slide Imaging, Automated IHC/ISH, Laser Microdissection.  <br>
+ * Establishing, supervising, providing training, and maintaining several core research facilities within NDCN - Whole Slide Imaging, Automated IHC/ISH, Laser Microdissection. <br>
+  <br>
+  
+ * Day to day advisory role for post-graduates (MSc, MRes, D.Phil) and post-doctoral scientists. 
+ 
+ * Specialized training to students (undergraduates/postgraduates) and professionals (laboratory technicians, research assistants, post-doctoral researchers).   <br>
   <br>
  
- * Specialized scientific training to students (undergraduates/postgraduates) and staff (laboratory technicians, research assistants, post-doctoral researchers).   <br>
-  <br>
- 
- * Supervisory role on several postgraduate/medical school research projects.
+ * Supervisory role on several FHS research projects; both for medical students and undergraduates. Experience managing students, determining project direction, placing deadlines, managing student concerns, and helping students reach their personal targets.
  
  
  -------------------------------------------------
@@ -54,7 +56,7 @@ date_format = "Jan 2006"
   * Oxford Brain Bank Ethical Board Committee Member.  <br>
    <br>
   
-  * NDCN Public Engagement Ambassador. <br>
+  * NDCN Public Engagement Ambassador - Hosting events for the general public such as regular open days; Invited adults/patients, schoolchildren and university students come to our department and I explain neuroscience as it relates to physiology and disease, including the importance of neuroscience research.  <br>
    <br>
 """
 	
@@ -68,8 +70,9 @@ date_format = "Jan 2006"
   description = """ 
   Provided laboratory support for the Oxford Brain Bank, including:
   
-  * Routine immunostaining for diagnosing neurodegeneration.
-  * Human CNS Dissection.
+  * Human Brain Dissection.
+  * Preforming protein assays to diagnose neurodegenerative diseases in donors.
+  * Performing DNA sequencing on patients to determine prognosis of brain tumours.
   * Interviewing and Training new staff.
 """
 
@@ -81,9 +84,10 @@ date_format = "Jan 2006"
   date_start = "2013-01-01"
   date_end = "2015-08-01"
   description = """ Laboratory support for the Neuropathology and Ocular Pathology Department
-* Assisting in CNS Dissection
-* Maintaining Stocks and preparing buffes/dyes
-* Daily communication with coroners and healthcare professionals
+* Assisting in CNS Dissection.
+* Generic laboratory support.
+* Maintaining Stocks and preparing buffers/dyes.
+* Daily communication with coroners and healthcare professionals.
 """
 
 
