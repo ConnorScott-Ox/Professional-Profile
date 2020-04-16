@@ -19,7 +19,7 @@
   weight = 10
 
 [[main]]
-  name = "Peer Review"
+  name = "Journal Articles"
   url = "/publication"
   weight = 20
   

@@ -28,7 +28,8 @@ date_format = "Jan 2006"
   Responsibilities include: <br>
   <br>
   
- * Senior Research Scientist. <b>Current projects:</b> <b>(1)</b> <i>selective vulnerability in amyotrophic lateral sclerosis, </i> <b>(2)</b> <i>early detection of Alzheimer’s Disease,</i> <b>(3)</b> <i>novel biomarker discovery in Alzheimer’s disease </i>, <b>(4)</b> <i>microproteomics of rare neuronal cell types/tumour samples,</i> <b>(4)</b> <i>genetic classification of gliomas,</i> <b>(5)</b> <i>High resolution MRI scanning.</i> <br>
+ * Senior Research Scientist. <br>
+ <b>Current projects:</b> <b>(1)</b> <i>selective vulnerability in amyotrophic lateral sclerosis, </i> <b>(2)</b> <i>early detection of Alzheimer’s Disease,</i> <b>(3)</b> <i>novel biomarker discovery in Alzheimer’s disease </i>, <b>(4)</b> <i>microproteomics of rare neuronal cell types/tumour samples,</i> <b>(5)</b> <i>genetic classification of gliomas,</i> <b>(6)</b> <i>High resolution MRI scanning.</i> <br>
   <br>
  
  * Establishing, supervising, providing training, and maintaining several core research facilities within NDCN - Whole Slide Imaging, Automated IHC/ISH, Laser Microdissection. <br>
