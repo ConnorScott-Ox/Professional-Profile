@@ -17,7 +17,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-Using our digital pathology platform we were able to digitise the invaluable microscope slides from these rare collections. The goal is to preserve them incase of future damage and allow online acess for teaching purposes. I wrote code that allowed the digital scanner to scan the problematic slides within these collections and then applied my expertise to successfully scan a large proportion of them. <br>
+Using our digital pathology platform we were able to digitise the invaluable microscope slides from these rare collections. The goal is to preserve them incase of future damage and allow online access for teaching purposes. I wrote code that allowed the digital scanner to be compatible with the problematic slides within these collections and then applied my expertise to successfully scan a large proportion of them. <br>
 <br>
 <b>About the collections:</b>
 <br>
