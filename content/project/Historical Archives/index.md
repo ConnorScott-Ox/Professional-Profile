@@ -5,8 +5,8 @@ image:
   caption: 
   focal_point: Smart
 links:
- - icon: graduation-cap
- - url: "https://cslide.medsci.ox.ac.uk/items/view/1005"
+ icon: graduation-cap
+ url: "https://cslide.medsci.ox.ac.uk/items/view/1005"
 slides: 
 summary: Digital microscopist for these historic collections.<i> Click for more information. </i>
 tags:
