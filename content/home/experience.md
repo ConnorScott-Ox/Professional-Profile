@@ -28,14 +28,14 @@ date_format = "Jan 2006"
   Responsibilities include: <br>
   <br>
   
- * Senior Research Scientist.<br>
+ * Senior Research Scientist. <b>Current projects:</b> <b>(1)</b> <i>selective vulnerability in amyotrophic lateral sclerosis, </i> <b>(2)</b> <i>early detection of Alzheimer’s Disease,</i> <b>(3)</b> <i>novel biomarker discovery in Alzheimer’s disease </i>, <b>(4)</b> <i>microproteomics of rare neuronal cell types/tumour samples,</i> <b>(4)</b> <i>genetic classification of gliomas,</i> <b>(5)</b> <i>High resolution MRI scanning.</i> <br>
   <br>
  
  * Establishing, supervising, providing training, and maintaining several core research facilities within NDCN - Whole Slide Imaging, Automated IHC/ISH, Laser Microdissection. <br>
   <br>
   
- * Day to day advisory role for post-graduates (MSc, MRes, D.Phil) and post-doctoral scientists. 
- 
+ * Day to day advisory role for post-graduates (MSc, MRes, D.Phil) and post-doctoral scientists. <br>
+ <br>
  * Specialized training to students (undergraduates/postgraduates) and professionals (laboratory technicians, research assistants, post-doctoral researchers).   <br>
   <br>
  
@@ -73,7 +73,7 @@ date_format = "Jan 2006"
   * Human Brain Dissection.
   * Preforming protein assays to diagnose neurodegenerative diseases in donors.
   * Performing DNA sequencing on patients to determine prognosis of brain tumours.
-  * Interviewing and Training new staff.
+  * Interviewing, teaching and training new staff.
 """
 
 [[experience]]
@@ -84,8 +84,8 @@ date_format = "Jan 2006"
   date_start = "2013-01-01"
   date_end = "2015-08-01"
   description = """ Laboratory support for the Neuropathology and Ocular Pathology Department
-* Assisting in CNS Dissection.
 * Generic laboratory support.
+* Assisting in CNS Dissection.
 * Maintaining Stocks and preparing buffers/dyes.
 * Daily communication with coroners and healthcare professionals.
 """

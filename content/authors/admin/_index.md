@@ -41,6 +41,4 @@ user_groups:
 
 Connor Scott is a neuroscientist with over 7 years of human tissue experience, specialising in bringing traditional histology into the modern era by developing workflows to bridge neuropathology with multiple 'omic' technologies using surgical and post-mortem CNS material.
 
-Current projects: (1) selective vulnerability in amyotrophic lateral sclerosis, (2) early detection of Alzheimer’s Disease, (3) novel biomarker discovery in Alzheimer’s disease, (4) spatial proteomic mapping of atypical teratoid rhabdoid tumour, (4) genetic classification of gliomas, (5) microproteomics of rare neuronal cell types (6) High resolution MRI scanning. 
-
 Scroll down to see a brief overview of his academic profile or alternatively click on the headings above to get a more in-depth view.
