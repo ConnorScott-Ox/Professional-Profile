@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2016-10-05T00:00:00Z" 
-summary: Summarised our group's developed micro-proteomic approach and applied it to ALS post mortem neurons. <i>Article and Poster - ENCALS (European Network to Cure ALS) Meeting 2018</i>
+summary: Used our developed micro-proteomic approach and applied it to ALS post mortem neurons. <i>Article and Poster - ENCALS (European Network to Cure ALS) Meeting 2018</i>
 tags:
 - Source Themes
 title: Exploring the Proteome of ALS Laser Microdissected Purkinje Cells – Method Development.
