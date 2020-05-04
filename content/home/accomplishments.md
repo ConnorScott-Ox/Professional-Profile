@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-06-18"
   date_end = ""
-  description = "Grant awarded to allow us to partake in an educational programme allowing us to perform fun hands-on science experiments and explain our research to young underprivileged school children."
+  description = "Grant awarded to allow us to partake in an educational programme to perform hands-on science experiments with students, explain our research, and provide scientific career advice."
   
   [[item]]
   organization = "Nuffield Department of Clinical Neurosciences"
