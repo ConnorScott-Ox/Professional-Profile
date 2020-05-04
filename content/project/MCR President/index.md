@@ -30,7 +30,7 @@ i. Ensuring the smooth running and development of the Graduate community. <br>
 <br>
 ii. Making executive decisions regarding our £60,000 per annum budget, providing: funds/awards to individual students, additional support to our sports teams, a healthy extensive social calendar and providing welfare provisions to our students.<br>
 <br>
-iii. Individual Bi-weekly  meetings with the Principal, Treasurer, Deans, Tutor for Graduates, and other College staff. <br>
+iii. Individual bi-weekly meetings with the Principal, Treasurer, Deans, Tutor for Graduates, and other College staff. <br>
 <br>
 iv. Listening to the concerns of Graduate Students and relaying relevant information to College and providing advice or pointing individuals to the appropriate resources.<br>
 <br>
@@ -40,7 +40,7 @@ vi. Maintaining and building relationships with other colleges, along with Somer
 <br>
 vii. Resolving/Relaying serious welfare concerns to the appropriate individuals. <br>
 <br>
-viii. Creating, enforcining and maintaining policies involving our Graduate Student Body. <br>
+viii. Creating, enforcing and maintaining policies involving our Graduate Student Body. <br>
 ![Somerville](s.jpg)
 
 
