@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include neuropathology, proteomics, transciptomics and biomarker discovery. 
+bio: My research interests include neuropathology, proteomics, transcriptomics and biomarker discovery. 
 education:
   courses:
   - course: D.Phil (Oxon) in Clinical Neurosciences

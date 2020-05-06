@@ -60,7 +60,7 @@ subtitle = ""
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Programming"
+  name = "Bioinformatics"
   description = ""
   
   [[feature]]
