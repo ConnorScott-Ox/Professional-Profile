@@ -11,7 +11,7 @@ slides:
 summary: 
 tags:
 - Public Engagement
-title: Oxford Brain Bank Open Day - Student Demonstrations.
+title: Oxford Brain Bank Open Days - Student Demonstrations.
 url_code: ""
 url_pdf: ""
 url_slides: ""
