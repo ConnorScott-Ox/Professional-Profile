@@ -32,10 +32,15 @@ subtitle = ""
   [[content.filter_button]]
     name = "Professional"
     tag = "Professional"
+	
+  [[content.filter_button]]
+    name = "Public Engagement"
+    tag = "Public Engagement"	
 
   [[content.filter_button]]
     name = "Volunteering"
     tag = "Volunteering"
+
 
 
 [design]

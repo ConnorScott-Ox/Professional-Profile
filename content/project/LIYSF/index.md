@@ -10,7 +10,7 @@ image:
 slides: 
 summary: 
 tags:
-- Professional
+- Public Engagement
 title: Oxford Brain Bank Open Day - Student Demonstrations.
 url_code: ""
 url_pdf: ""

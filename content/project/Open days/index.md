@@ -10,8 +10,8 @@ image:
 slides: 
 summary: 
 tags:
-- Professional
-title: Oxford Brain Bank Open Day - Cancer Research
+- Public Engagement
+title: Oxford Brain Bank Open Days - Cancer Research
 url_code: ""
 url_pdf: ""
 url_slides: ""
