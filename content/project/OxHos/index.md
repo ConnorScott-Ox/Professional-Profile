@@ -11,7 +11,7 @@ slides:
 summary: 
 tags:
 - Public Engagement
-title: Student Volunteer.
+title: Student Volunteer
 url_code: ""
 url_pdf: "http://oxhos.org/PDFs/OxHOS_Roadshow_Report_Summer_2019.pdf"
 url_slides: ""
