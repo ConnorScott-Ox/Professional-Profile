@@ -32,8 +32,8 @@ date_format = "Jan 2006"
  <b>Current projects:</b> <b>(1)</b> <i>selective vulnerability in amyotrophic lateral sclerosis, </i> <b>(2)</b> <i>early detection of Alzheimer’s Disease,</i> <b>(3)</b> <i>novel biomarker discovery in Alzheimer’s disease,</i> <b>(4)</b> <i>microproteomics of rare neuronal cell types/tumour samples,</i> <b>(5)</b> <i>genetic classification of gliomas,</i> <b>(6)</b> <i>High-resolution MRI scanning.</i> <br>
   <br>
  
- * Establishing, managing, and maintaining several core research facilities within NDCN, including providing training and troubleshooting.
- <br> Facilities: Whole Slide Digital Imaging, Automated IHC/ISH and Laser Microdissection. <br>
+ * Establishing, managing, and maintaining several core research facilities within NDCN. This includes providing training and troubleshooting.
+ <br> <b>Facilities:</b> <i> Whole Slide Digital Imaging, Automated IHC/ISH and Laser Microdissection.</i> <br>
   <br>
   
  * Day to day advisory role for post-graduates (MSc, MRes, D.Phil) and post-doctoral scientists. <br>
