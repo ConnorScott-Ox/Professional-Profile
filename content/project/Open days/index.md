@@ -11,7 +11,7 @@ slides:
 summary: 
 tags:
 - Professional
-title: Oxford Brain Bank Open Days.
+title: Oxford Brain Bank Open Day - Cancer Research
 url_code: ""
 url_pdf: ""
 url_slides: ""
