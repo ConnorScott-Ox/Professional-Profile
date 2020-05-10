@@ -2,7 +2,7 @@
 abstract:
 authors:
 - <b>Connor Scott</b>, Simon Davis, Benedikt M. Kessler, Roman Fischer, Olaf Ansorge
-date: "2019-15-05"
+date: "2019-05-15"
 doi: ""
 featured: false
 image:
@@ -14,7 +14,7 @@ publication: ''
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-15-05" 
+publishDate: "2019-05-15" 
 summary:  Highlights some of initial novel proteomic work performed on Betz cell <i> Poster - University of Oxford’s Medical Science Division D.Phil Day 2019</i>
 tags:
 - Source Themes
