@@ -14,7 +14,7 @@ publication: ''
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "" 
+publishDate: "2020-05-31" 
 summary: Here we apply a sensitive, spatially resolved workflow for the proteomic analysis of a tumour to identify proteins that display spatial expression patterns within the tissue in an unsupervised manner. <i>Article and Poster - ASMS Conference on Mass Spectrometry and Allied Topics, May 31st - June 4th 2020</i>
 tags:
 - Source Themes
