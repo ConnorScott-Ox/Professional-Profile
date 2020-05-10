@@ -1,7 +1,7 @@
 ---
 abstract: 
 authors:
-- Amy FD Howard, Alexandre A Khrapitchev, Adele Smart, Greg Daubney, Jeroen Mollink, Istvan Huszar1, <b>Connor Scott</b>, Nicola Sibson, Rogier B Mars, Jerome Sallet, Saad Jbabdi, Karla L Miller
+- Amy FD Howard, Alexandre A Khrapitchev, Adele Smart, Greg Daubney, Jeroen Mollink, Istvan Huszar, <b>Connor Scott</b>, Nicola Sibson, Rogier B Mars, Jerome Sallet, Saad Jbabdi, Karla L Miller
 date: "2020-03-01"
 doi: ""
 featured: false
