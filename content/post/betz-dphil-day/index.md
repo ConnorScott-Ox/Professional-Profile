@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-15-05" 
-summary:  <b><i> Highlights some of initial novel proteomic work performed on Betz cell <i> Poster - University of Oxford’s Medical Science Division D.Phil Day 2019</i>
+summary:  Highlights some of initial novel proteomic work performed on Betz cell <i> Poster - University of Oxford’s Medical Science Division D.Phil Day 2019</i>
 tags:
 - Source Themes
 title: Characterising the Proteome of the Giant Pyramidal Betz Cell. 
@@ -51,5 +51,5 @@ they could be used as potential Betz cell biomarkers.
 The results can be found to the right. All of the selected proteins had higher expression in the Betz cell than the surrounding micro-environment. DST and ATPB out-performed against the others. DST was particular concentrated in Betz cell and allowed clear segmentation from surrounding cells and neuropil.
 
 <b>Discussion and conclusions:</b><br>
-<br>
+
 For the first time we have revealed the proteome of the Betz cell - ~4,000 proteins. Our data  confirm previous assumptions in the literature about the function & nature of the Betz cell. Our findings were validated with back-mapping immunohistochemistry to human tissue; from this we successfully identified several new markers to help in Betz Cell identification. Next, we wish to explore how the proteome of these Betz cells are affected in Motor Neuron Disease. 
