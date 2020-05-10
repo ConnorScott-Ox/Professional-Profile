@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-01-15" 
-summary: The coupling of laser capture microdissection and proteomics is a powerful technique capable of generating reproducible, quantitative proteomes of sufficient depth from a single type of cell isolated from a mixed population, which has the potential to yield unbiased information about mechanisms of cell fate specification and degeneration in the human brain. <i>Article and Poster - 18th Human Proteome Organisation World Congress (HUPO2019), Australia, September 15th - 19th 2019</i>
+summary: Here we describe a method to increase throughput by 10x.The 10x increase in throughput increases possibilities for investigation into the spatial distribution of proteins throughout a tissue. We will next apply this methodology in order to determine spatial proteomic profiles of distinct histological features within a brain tumour. <i>Article and Poster - 18th Human Proteome Organisation World Congress (HUPO2019), Australia, September 15th - 19th 2019</i>
 tags:
 - Source Themes
 title: High-throughput proteomic analysis of spatially distinct features of human brain tissue
