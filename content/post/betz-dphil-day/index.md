@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-05-15" 
-summary:  Highlights some of initial novel proteomic work performed on Betz cell <i> Poster - University of Oxford’s Medical Science Division D.Phil Day 2019</i>
+summary:  Highlights some of the initial novel proteomic work performed on Betz cell <i> Poster - University of Oxford’s Medical Science Division D.Phil Day 2019</i>
 tags:
 - Source Themes
 title: Characterising the Proteome of the Giant Pyramidal Betz Cell. 
