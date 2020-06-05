@@ -64,7 +64,7 @@ date_format = "Jan 2006"
    <b>Click <i>Employment Experience" for a detailed summary.</i></b>
 """
 	
-[[experience]]
+
  
 +++
 
