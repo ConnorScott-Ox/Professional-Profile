@@ -4,7 +4,7 @@ authors:
 - David Gordon, Ruxandra Dafinca, Jakub Scaber, Javier Alegre-Abarrategui, Lucy Farrimond, <b>Connor Scott</b>, Daniel Biggs, Louisa Kent, Peter L. Oliver, Benjamin Davies, Olaf Ansorge, Richard Wade-Martins, Kevin Talbot.
 date: "2019-01-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.nbd.2018.09.024"
-featured: true
+featured: false
 image:
   caption:
   focal_point: ""
