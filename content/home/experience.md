@@ -43,25 +43,7 @@ date_format = "Jan 2006"
  
  * Supervisory role on several FHS research projects; both for medical students and undergraduates. Experience managing students, determining project direction, placing deadlines, managing student concerns, and helping students reach their targets.
  
- 
- -------------------------------------------------
- 
- Other related roles: <br>
-  <br>
- 
- * Served 3 years on NDCN's Personnel Committee - responsible for all personnel and equality matters connected with the employment of the University's employees; approving pay rises, tracking staff performance and reviewing employee retention cases. <br>
-  <br>
- 
-  * Athena SWAN Champion - ensuring departmental good practices towards the advancement of gender equality, representation, progression and success for all. <br>
-   <br>
-  
-  * Oxford Brain Bank Ethical Board Committee Member.  <br>
-   <br>
-  
-  * NDCN Public Engagement Ambassador - Hosting events for the general public such as regular open days; Invited adults/patients, schoolchildren, and university students come to our department and I explain neuroscience as it relates to physiology and disease, including the importance of neuroscience research.  <br>
-   <br>
-   
-   <b>Click <i>Employment Experience" for a detailed summary.</i></b>
+   <b>Click <i>Employment Experience for a detailed summary.</i></b>
 """
 	
 
