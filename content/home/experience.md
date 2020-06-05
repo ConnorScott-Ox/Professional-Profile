@@ -60,38 +60,11 @@ date_format = "Jan 2006"
   
   * NDCN Public Engagement Ambassador - Hosting events for the general public such as regular open days; Invited adults/patients, schoolchildren, and university students come to our department and I explain neuroscience as it relates to physiology and disease, including the importance of neuroscience research.  <br>
    <br>
+   
+   <b>Click "Employment Experience" for a detailed summary.</b>
 """
 	
 [[experience]]
-  title = "Oxford Brain Bank Technician"
-  company = "Nuffield Department of Clinical Neurosciences - University of Oxford"
-  company_url = "https://www.ndcn.ox.ac.uk/"
-  location = "Oxford"
-  date_start = "2013-10-01"
-  date_end = "2015-06-01"
-  description = """ 
-  Provided laboratory support for the Oxford Brain Bank, including:
-  
-  * Human Brain Dissection.
-  * Preforming protein assays to diagnose neurodegenerative diseases in donors.
-  * Performing DNA sequencing on patients to determine the prognosis of brain tumours.
-  * Interviewing, teaching and training new staff.
-"""
-
-[[experience]]
-  title = "Biomedical Scientist Associate"
-  company = "NHS - Oxford University Hospitals"
-  company_url = "https://www.ouh.nhs.uk/services/departments/neurosciences/neuropathology/"
-  location = "Oxford"
-  date_start = "2013-01-01"
-  date_end = "2015-08-01"
-  description = """ Laboratory support for the Neuropathology and Ocular Pathology Department
-* Generic laboratory support.
-* Assisting in CNS Dissection.
-* Maintaining Stocks and preparing buffers/dyes.
-* Daily communication with coroners and healthcare professionals.
-"""
-
-
+ 
 +++
 
