@@ -9,8 +9,8 @@
 #  weight = 10
 
 [[main]]
-  name = "Employment History"
-  url = "/history"
+  name = "Employment Experience"
+  url = "/Employment"
   weight = 10
 
 #[[main]]
