@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   * NDCN Public Engagement Ambassador - Hosting events for the general public such as regular open days; Invited adults/patients, schoolchildren, and university students come to our department and I explain neuroscience as it relates to physiology and disease, including the importance of neuroscience research.  <br>
    <br>
    
-   <b>Click "Employment Experience" for a detailed summary.</b>
+   <b>Click <i>Employment Experience" for a detailed summary.</i></b>
 """
 	
 [[experience]]
