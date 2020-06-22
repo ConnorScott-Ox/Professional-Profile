@@ -67,7 +67,7 @@ date_format = "Jan 2006"
   company = "Nuffield Department of Clinical Neurosciences - University of Oxford"
   company_url = "https://www.ndcn.ox.ac.uk/"
   location = "Oxford"
-  date_start = "2013-10-01"
+  date_start = "2013-08-01"
   date_end = "2015-06-01"
   description = """ 
   Provided laboratory support for the Oxford Brain Bank, including:
@@ -84,7 +84,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ouh.nhs.uk/services/departments/neurosciences/neuropathology/"
   location = "Oxford"
   date_start = "2013-01-01"
-  date_end = "2015-08-01"
+  date_end = "2013-08-01"
   description = """ Laboratory support for the Neuropathology and Ocular Pathology Department
 * Generic laboratory support.
 * Assisting in CNS Dissection.
