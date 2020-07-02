@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2020-05-01" 
-summary: Here we apply a sensitive, spatially resolved workflow for the proteomic analysis of a tumour to identify proteins that display spatial expression patterns within the tissue in an unsupervised manner. <b><i>Abstract and Poster - ASMS Conference on Mass Spectrometry and Allied Topics, May 31st - June 4th 2020</i></b>
+summary: Here we apply a sensitive, spatially resolved workflow for the proteomic analysis of a tumour to identify proteins that display spatial expression patterns within the tissue in an unsupervised manner. <b><i>Abstract and Poster - ASMS Conference on Mass Spectrometry and Allied Topics, May 31st - June 4th 2020.</i></b>
 tags:
 - Source Themes
 title: High throughput, spatially-resolved proteomic analysis of a human brain tumour

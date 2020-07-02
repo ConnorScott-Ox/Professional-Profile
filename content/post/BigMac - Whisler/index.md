@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2020-03-01" 
-summary: Linking tissue microstructure with diffusion MRI signals throughout the brain <b><i>Abstract and Poster - Whistler Scientific Workshop on Brain Functional Organization, Connectivity, and Behavior, March 1st - March 4th 2020</i></b>
+summary: Linking tissue microstructure with diffusion MRI signals throughout the brain <b><i>Abstract and Poster - Whistler Scientific Workshop on Brain Functional Organization, Connectivity, and Behavior, March 1st - March 4th 2020.</i></b>
 tags:
 - Source Themes
 title: The BigMac dataset - linking tissue microstructure with diffusion MRI signals throughout the brain
