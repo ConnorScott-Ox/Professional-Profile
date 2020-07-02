@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-12-04" 
-summary:  <b><i> Published Abstract (Journal of Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration, volume 20, S1, November 2019) and Poster -  30th International Symposium on ALS/MND, December 4th - 6th, 2019.</i></b>
+summary: The detection of specific TDP-43 peptides able to quantify the pathological fragments of TDP-43 in post mortem ALS brain tissue, offers the opportunity to develop an in vivo assay to measure pathological TDP-43. This would have major diagnostic, stratification and pharmacodynamic biomarker potential. The finding of CTF in cases labelled as AD may reflect the recent identification of a sub-group labelled Limbic-predominant Agerelated TDP-43 Encephalopathy. <b><i> Published Abstract (Journal of Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration, volume 20, S1, November 2019) and Poster -  30th International Symposium on ALS/MND, December 4th - 6th, 2019.</i></b>
 tags:
 - Source Themes
 title: Detection and quantification of pathological C-terminal TDP-43 fragments in post mortem brain tissue

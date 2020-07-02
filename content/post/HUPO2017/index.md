@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-08-17" 
-summary: The coupling of laser capture microdissection and proteomics is a powerful technique capable of generating reproducible, quantitative proteomes of sufficient depth from a single type of cell isolated from a mixed population, which has the potential to yield unbiased information about mechanisms of cell fate specification and degeneration in the human brain. <i>Article and Poster - 16th Human Proteome Organisation World Congress (HUPO2017), September 17th - 21st 2017</i>
+summary: The coupling of laser capture microdissection and proteomics is a powerful technique capable of generating reproducible, quantitative proteomes of sufficient depth from a single type of cell isolated from a mixed population, which has the potential to yield unbiased information about mechanisms of cell fate specification and degeneration in the human brain. <b><i>Abstract and Poster - 16th Human Proteome Organisation World Congress (HUPO2017), September 17th - 21st 2017.</i></b>
 tags:
 - Source Themes
 title: Proteomic analysis of single cell clusters using laser capture microdissection

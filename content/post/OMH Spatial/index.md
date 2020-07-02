@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2020-06-30"
-summary:  <b><i>Abstract - Presented at the Oxford Metabolic Health Symposium 2020, 30th June – 3rd July 2020. </i></b>
+summary: LC-MS based mass spectrometry imaging of proteins has the potential to provide novel insights into the proteome of tissues. <b><i>Abstract - Presented at the Oxford Metabolic Health Symposium 2020, 30th June – 3rd July 2020. </i></b>
 tags:
 - Source Themes
 title: Molecular imaging of human brain tumour tissue by mass spectrometry

@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2018-03-21" 
-summary: Summarised our group's developed micro-proteomic approach and applied it to ALS post mortem neurons. <i>Poster - 9th Annual Oxford Neuroscience Symposium</i>
+summary: Summarised our group's developed micro-proteomic approach and applied it to ALS post mortem neurons. <b><i>Poster - 9th Annual Oxford Neuroscience Symposium.</i></b>
 tags:
 - Source Themes
 title: Exploring the Proteome of ALS Laser Microdissected Purkinje Cells – Method Development.
