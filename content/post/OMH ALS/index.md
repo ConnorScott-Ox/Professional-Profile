@@ -18,7 +18,7 @@ publishDate: "2020-07-05T00:00:00Z"
 summary: Presented at the Oxford Metabolic Health Symoisium 2020, 30th June – 3rd July 2020. <b><i>Abstract & invited to give a talk</i></b>
 tags:
 - Source Themes
-title: Spatially resolved MALDI mass spectrometric imaging of human brain tissue for metabolites, lipids, and peptides: proof of principle
+title: Spatially resolved MALDI mass spectrometric imaging of human brain tissue for metabolites, lipids, and peptides - proof of principle
 url_code: ""
 url_dataset: ""
 url_pdf: 
