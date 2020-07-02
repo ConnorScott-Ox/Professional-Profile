@@ -2,7 +2,7 @@
 abstract: 
 authors:
 - Simon Davis, <b>Connor Scott</b>, Janina Oetjen, Benedikt Kessler, Olaf Ansorge, Roman Fischer
-date: "2020-07-05T00:00:00Z"
+date: "2020-07-05"
 doi: ""
 featured: false
 image:
@@ -14,7 +14,7 @@ publication: '*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-07-05T00:00:00Z"
+publishDate: "2020-07-05"
 summary: Presented at the Oxford Metabolic Health Symoisium 2020, 30th June – 3rd July 2020. <b><i>Abstract</i></b>
 tags:
 - Source Themes

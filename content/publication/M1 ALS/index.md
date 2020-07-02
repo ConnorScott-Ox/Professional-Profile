@@ -10,7 +10,7 @@ image:
   focal_point: ""
   preview_only: false 
 projects: []
-publication: 'Acta Neuropathologica Communications 8, (98)'
+publication: 'Acta Neuropathologica Communications'
 publication_short: ""
 publication_types:
 - "2"
