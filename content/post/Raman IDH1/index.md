@@ -14,7 +14,7 @@ image:
 lastmod: ""
 projects: []
 subtitle: 'Investigated the feasibility of using Raman spectroscopy to differentiate between IDH1 positive (IDH1 + ) and negative (IDH1 - ) tumours through classification modelling.' 
-summary: Investigated the feasibility of using Raman spectroscopy to differentiate between IDH1 positive (IDH1 + ) and negative (IDH1 - ) tumours through classification modelling. <b><i>Published Poster - Journal of Neuro-Oncology (Volume 19) </i></b>
+summary: Investigated the feasibility of using Raman spectroscopy to differentiate between IDH1 positive (IDH1 + ) and negative (IDH1 - ) tumours through classification modelling. <b><i>Published Abstract & Poster - Journal of Neuro-Oncology (Volume 19) </i></b>
 tags:
 - Academic
 title: 'Raman spectroscopy for the identification of isocitrate dehydrogenase (IDH) mutated glioblastomas. '

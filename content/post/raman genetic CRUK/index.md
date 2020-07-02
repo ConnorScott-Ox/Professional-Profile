@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"  
 publishDate: "2018-05-01"
-summary: Demonstrated proof of concept that Raman spectroscopy can be used for rapid, intraoperative glioma genetic classification. <i> Abstract and Poster - Cancer Research UK Brain Tumour Conference, England, June 1st - 3rd 2018. </i>
+summary: Demonstrated proof of concept that Raman spectroscopy can be used for rapid, intraoperative glioma genetic classification. <b><i> Abstract and Poster - Cancer Research UK Brain Tumour Conference, England, June 1st - 3rd 2018. </i></b>
 tags:
 - Source Themes
 title: Rapid genetic classification of gliomas using Raman spectroscopy

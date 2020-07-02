@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2020-06-30"
-summary: Presented at the Oxford Metabolic Health Symoisium 2020, 30th June – 3rd July 2020. <b><i>Abstract</i></b>
+summary:  <b><i>Abstract - Presented at the Oxford Metabolic Health Symposium 2020, 30th June – 3rd July 2020. </i></b>
 tags:
 - Source Themes
 title: Molecular imaging of human brain tumour tissue by mass spectrometry

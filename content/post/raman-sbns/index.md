@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-03-29"
-summary: Raman spectroscopy can accurately and rapidly distinguish IDH1 mutated glioblastomas from their IDH1 negative counterparts. Further work is currently being undertaken on fresh, intraoperative, tumour samples. <b><i> Published Article (British Journal of Neurosurgery, vol 31, No. 2, 119-158 (2017))- Proceedings of the 2017 Spring Meeting of the Society of British Neurological Surgeons, Oxford, 29-31 March 2017. </i></b>
+summary: Raman spectroscopy can accurately and rapidly distinguish IDH1 mutated glioblastomas from their IDH1 negative counterparts. Further work is currently being undertaken on fresh, intraoperative, tumour samples. <b><i> Published Abstract (British Journal of Neurosurgery, vol 31, No. 2, 119-158 (2017))- Proceedings of the 2017 Spring Meeting of the Society of British Neurological Surgeons, Oxford, 29-31 March 2017. </i></b>
 tags:
 - Source Themes
 title: Raman spectroscopy for the identification of isocitrate dehydrogenase (IDH) mutated glioblastomas. 

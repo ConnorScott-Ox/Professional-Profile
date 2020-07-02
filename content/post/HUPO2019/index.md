@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-01-15" 
-summary: Here we describe a method to increase proteomic throughput by 10-times. The 10x increase in throughput increases possibilities for investigation into the spatial distribution of proteins throughout a tissue. We will next apply this methodology in order to determine spatial proteomic profiles of distinct histological features within a brain tumour. <i>Article and Poster - 18th Human Proteome Organisation World Congress (HUPO2019), Australia, September 15th - 19th 2019</i>
+summary: Here we describe a method to increase proteomic throughput by 10-times. The 10x increase in throughput increases possibilities for investigation into the spatial distribution of proteins throughout a tissue. We will next apply this methodology in order to determine spatial proteomic profiles of distinct histological features within a brain tumour. <b><i>Abstract and Poster - 18th Human Proteome Organisation World Congress (HUPO2019), Australia, September 15th - 19th 2019</i></b>
 tags:
 - Source Themes
 title: High-throughput proteomic analysis of spatially distinct features of human brain tissue

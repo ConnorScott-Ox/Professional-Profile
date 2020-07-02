@@ -14,7 +14,7 @@ image:
 lastmod: ""
 projects: []
 subtitle: ''  
-summary:  Demonstrated proof of concept that Raman spectroscopy can be used to seperate IDH-1 an IDH-2 gliomas. <i>Abstract and Poster - The International Society for Clinical Spectroscopy 2016, Canada, June 26th - 30th. </i>
+summary:  Demonstrated proof of concept that Raman spectroscopy can be used to seperate IDH-1 an IDH-2 gliomas. <b><i>Abstract and Poster - The International Society for Clinical Spectroscopy 2016, Canada, June 26th - 30th. </i></b>
 tags:
 - Academic
 title: 'Raman spectroscopy for the identification of isocitrate dehydrogenase (IDH) mutation in glioblastomas. '

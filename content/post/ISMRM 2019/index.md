@@ -6,7 +6,7 @@ date: "2019-05-11"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: From Abstract'
+  caption: 'Image credit: From Abstract (Amy Howard)'
   focal_point: ""
   preview_only: false
 projects: []
@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-05-11"
-summary:  <i> Article and Poster -  International Society for Magnetic Resonance in Medicine (ISMRM) 27th Annual Meeting & Exhibition, May 11th - 16th, 2019 </i>
+summary: Diffusion MRI (dMRI) has great potential for studying the complexity of white matter fibre architecture non-invasively. However, because dMRI is an indirect measure of this microstructure, we require validation datasets for two main purposes: (i) to relate dMRI to microscopy data that directly measures the microstructure of interest; and (ii) to relate high-quality dMRI data to more conventional data quality. We present the NAMETBC dataset which addresses both of these goals. <b><i> Article and Poster -  International Society for Magnetic Resonance in Medicine (ISMRM) 27th Annual Meeting & Exhibition, May 11th - 16th, 2019 </i></b>
 tags:
 - Source Themes
 title: The BigMac dataset -  ultra-high angular resolution diffusion imaging and multi-contrast microscopy of a whole macaque brain
