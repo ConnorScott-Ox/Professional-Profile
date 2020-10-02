@@ -18,10 +18,4 @@ url_slides: ""
 url_video: ""
 ---
 
-For 4 months I acted as a volunteer in this Unit. My task ranged from taking vitals such as blood pressure/o2 saturation to
-feeding and clothing patients. I would travel with nervous or disabled patients to their external GP 
-appointments and would relay information from doctors between departments.
-<br>
-
-
 
