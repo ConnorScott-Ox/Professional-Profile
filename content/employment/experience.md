@@ -61,6 +61,21 @@ date_format = "Jan 2006"
   * NDCN Public Engagement Ambassador - Hosting events for the general public such as regular open days; Invited adults/patients, schoolchildren, and university students come to our department and I explain neuroscience as it relates to physiology and disease, including the importance of neuroscience research.  <br>
    <br>
 """
+[[experience]]
+  title = "Editor"
+  company = "MogoEdit"
+  company_url = "http://en.mogoedit.com/"
+  location = ""
+  date_start = "2020-01-01"
+  date_end = ""
+  description = """ 
+  
+  
+  *Native English language editors: each and every one of our editors is a talented English-speaking professional from the United States, Great Britain, Australia and other      English-speaking regions.They are extensively experienced in editing and polishing papers, as well as documents required for studies overseas.
+
+  *High quality professional editors: over 60% of our editors have more than 15 years professional English editing experience and are able to evaluate papers and applications in a comprehensive manner. Some of our editors are currently engaged in reviewing and assessing papers for peer-reviewed journals.
+
+""" 
 	
 [[experience]]
   title = "Oxford Brain Bank Technician"
