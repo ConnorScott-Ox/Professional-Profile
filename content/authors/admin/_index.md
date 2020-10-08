@@ -33,6 +33,9 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Connor_Scott4
+- icon: google-scholar
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=Sr2q5WYAAAAJ&hl=en
 superuser: true
 user_groups:
 - Researchers
