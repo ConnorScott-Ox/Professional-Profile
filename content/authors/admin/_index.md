@@ -31,7 +31,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/ConnorScott_OX
 - icon: researchgate
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.researchgate.net/profile/Connor_Scott4
 - icon: google-scholar
   icon_pack: ai
