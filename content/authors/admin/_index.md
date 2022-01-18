@@ -22,7 +22,7 @@ name: Connor Scott
 organizations:
 - name: Nuffield Department of Clinical Neurosciences
   url: "https://www.ndcn.ox.ac.uk/team/connor-scott"
-role: Senior Histology Manager
+role: Senior Histology Manager / Hononary Academic 
 social:
 - icon: envelope
   icon_pack: fas
