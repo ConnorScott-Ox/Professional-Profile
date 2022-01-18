@@ -4,7 +4,7 @@ authors:
 bio: My research interests include neuropathology, proteomics, transcriptomics and biomarker discovery. 
 education:
   courses:
-  - course: D.Phil (Oxon) in Clinical Neurosciences
+  - course: D.Phil/PhD in Clinical Neurosciences
     institution: University of Oxford
     year: 2021
   - course: BSc (Hons) in Biomedical Sciences
@@ -13,11 +13,11 @@ education:
 
 email: "connor.scott@ndcn.ox.ac.uk"
 interests:
+- Cell Biology
+- Genomics / Proteomics / Transcriptomics
+- Machine Learning
 - Neurodegeneration
 - Oncology
-- Cell Biology
-- Machine Learning
-- Genomics / Proteomics / Transcriptomics
 name: Connor Scott
 organizations:
 - name: Nuffield Department of Clinical Neurosciences
