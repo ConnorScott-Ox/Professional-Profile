@@ -22,7 +22,7 @@ name: Connor Scott
 organizations:
 - name: UK Dementia Research Institute
  url: "https://ukdri.ac.uk/"
-role: Senior Histology Manager 
+role: Senir
 social:
 - icon: envelope
   icon_pack: fas
