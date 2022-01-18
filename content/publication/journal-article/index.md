@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-04-05T00:00:00Z"
-summary: Developing a technique that allows for differential quantitative proteomic analysis to be performed on minute amount of post-mortem laser microdissected material. 
+summary: While nearly comprehensive proteome coverage can be achieved from bulk tissue or cultured cells, the data usually lacks spatial resolution. As a result, tissue based proteomics averages protein abundance across multiple cell types and/or localizations. With proteomics platforms lacking sensitivity and throughput to undertake deep single-cell proteome studies in order to resolve spatial or cell type dependent protein expression gradients within tissue, proteome analysis has been combined with sorting techniques to enrich for certain cell populations. However, the spatial resolution and context is lost after cell sorting. Here, we report an optimized method for the proteomic analysis of neurons isolated from post-mortem human brain by laser capture microdissection (LCM).
 tags:
 - Source Themes
 title: Development of a Sensitive, Scalable Method for Spatial, Cell-Type-Resolved Proteomics of the Human Brain

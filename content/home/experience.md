@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   date_start = "2021-05-02"
   date_end = "2022-09-01"
   description = """
-<b>Current projects:</b> <b>(1)</b> <i> selective vulnerability of subpopulation of neurons in amyotrophic lateral sclerosis, </i> <b>(2)</b> <i>researching how epigenetics underpins cell-state fate and cellular signatures,</i> <b>(3)</b> <i>and microproteomics of rare neuronal cell types/tumour samples.</i> <br>
+<b>Current projects:</b> <b>(1)</b> <i> Selective vulnerability of subpopulation of neurons in amyotrophic lateral sclerosis, </i> <b>(2)</b> <i>researching how epigenetics underpins cell-state fate and cellular signatures,</i> <b>(3)</b> <i>and microproteomics of rare neuronal cell types/tumour samples.</i> <br>
 	<br>
 
 * Day to day advisory role for post-graduates (MSc/MRes, D.Phil) and post-doctoral scientists. 
