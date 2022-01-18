@@ -44,7 +44,8 @@ date_format = "Jan 2006"
  
    <b>Click <i>Employment Experience for a full detailed summary.</i></b>
 
-	
+"""
+
 [[experience]]
   title = "Honorary Academic Visitor"
   company = "University of Oxford"
