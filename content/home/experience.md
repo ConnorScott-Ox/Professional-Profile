@@ -28,27 +28,20 @@ date_format = "Jan 2006"
   Responsibilities include: <br>
   <br>
   
- * Senior Research Scientist. <br>
- <b>Current projects:</b> <b>(1)</b> <i>selective vulnerability in amyotrophic lateral sclerosis, </i> <b>(2)</b> <i>early detection of Alzheimer’s Disease,</i> <b>(3)</b> <i>novel biomarker discovery in Alzheimer’s disease,</i> <b>(4)</b> <i>microproteomics of rare neuronal cell types/tumour samples,</i> <b>(5)</b> <i>genetic classification of gliomas,</i> <b>(6)</b> <i>High-resolution MRI scanning.</i> <br>
+ * Set up and established a new research laboratory to allow scientists to perform molecular neuroscience/neuropathology experiments for their desired projects. <br>
   <br>
  
  * Establishing, managing, and maintaining several core research facilities within NDCN. This includes providing training and troubleshooting.
- <br> <b>Facilities:</b> <i> Whole Slide Digital Imaging, Automated IHC/ISH and Laser Microdissection.</i> <br>
-  <br>
+
   
- * Day to day advisory role for post-graduates (MSc, MRes, D.Phil) and post-doctoral scientists. <br>
+ * Provide scientific guidance, training, and advice to scientists of all levels. . <br>
  <br>
- * Specialized training to students (undergraduates/postgraduates) and professionals (laboratory technicians, research assistants, post-doctoral researchers).   <br>
+ * Manage laboratory budgets and develop cost-recovery models.   <br>
   <br>
  
- * Supervisory role on several FHS research projects; both for medical students and undergraduates. Experience managing students, determining project direction, placing deadlines, managing student concerns, and helping students reach their targets.
  
    <b>Click <i>Employment Experience for a full detailed summary.</i></b>
-   
-   
-   ●	Set up and established a new research laboratory to allow scientists to perform molecular neuroscience/neuropathology experiments for their desired projects.
-●	Provide scientific guidance, training, and advice to scientists of all levels. 
-●	Manage laboratory budgets and develop cost-recovery models.
+
 
 """
 	
