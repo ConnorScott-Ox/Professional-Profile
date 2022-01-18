@@ -14,16 +14,16 @@ education:
 email: "connor.scott@ndcn.ox.ac.uk"
 interests:
 - Cell Biology
-- Genomics / Proteomics / Transcriptomics
 - Machine Learning
+- Molecular Biology
 - Neurodegeneration
 - Oncology
 name: Connor Scott
 organizations:
 - name: UK Dementia Research Institute
-  url: "https://www.ndcn.ox.ac.uk/team/connor-scott"
+  url: "https://ukdri.ac.uk/"
 - name: Nuffield Department of Clinical Neurosciences
-  url: "https://www.ndcn.ox.ac.uk/team/connor-scott" 
+  url: "https://www.ndcn.ox.ac.uk/" 
 role: Senior Histology Manager (UCL) / Hononary Academic (Oxford)
 social:
 - icon: envelope
