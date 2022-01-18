@@ -22,7 +22,7 @@ name: Connor Scott
 organizations:
 - name: Nuffield Department of Clinical Neurosciences
   url: "https://www.ndcn.ox.ac.uk/team/connor-scott"
-role: Research Assistant / D.Phil Student
+role: Senior Research Assistant / D.Phil Student
 social:
 - icon: envelope
   icon_pack: fas

@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Senior Research Assistant"
-  company = "Nuffield Department of Clinical Neurosciences - University of Oxford"
-  company_url = "https://www.ndcn.ox.ac.uk/"
-  location = "Oxford"
-  date_start = "2015-06-01"
+  title = "Senior Histology Manager"
+  company = "UK Dementia Research Institute - UCL"
+  company_url = "https://ukdri.ac.uk/centres/ucl"
+  location = "UCL - London"
+  date_start = "2021-06-12"
   date_end = ""
   description = """
   Responsibilities include: <br>
@@ -43,10 +43,31 @@ date_format = "Jan 2006"
  
  * Supervisory role on several FHS research projects; both for medical students and undergraduates. Experience managing students, determining project direction, placing deadlines, managing student concerns, and helping students reach their targets.
  
-   <b>Click <i>Employment Experience for a detailed summary.</i></b>
+   <b>Click <i>Employment Experience for a full detailed summary.</i></b>
+   
+   
+   ●	Set up and established a new research laboratory to allow scientists to perform molecular neuroscience/neuropathology experiments for their desired projects.
+●	Provide scientific guidance, training, and advice to scientists of all levels. 
+●	Manage laboratory budgets and develop cost-recovery models.
+
 """
 	
+[[experience]]
+  title = "Honorary Academic Visitor"
+  company = "University of Oxford"
+  company_url = "https://www.ndcn.ox.ac.uk/"
+  location = "Oxford"
+  date_start = "2021-05-02"
+  date_end = "2022-09-27"
+  description = """
+  Responsibilities include: <br>	
+<b>Current projects:</b> <b>(1)</b> <i> selective vulnerability of subpopulation of neurons in amyotrophic lateral sclerosis, </i> <b>(2)</b> <i>researching how epigenetics underpins cell-state fate and cellular signatures,</i> <b>(4)</b> <i>microproteomics of rare neuronal cell types/tumour samples,</i> 
+	<br>
 
+* Day to day advisory role for post-graduates (MSc/MRes, D.Phil) and post-doctoral scientists. 
+
+
+   <b>Click <i>Employment Experience for a full detailed summary.</i></b>
  
 +++
 
