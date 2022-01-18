@@ -22,7 +22,7 @@ name: Connor Scott
 organizations:
 - name: UK Dementia Research Institute
  url: "https://ukdri.ac.uk/"
-role: Senior Histology Manager (UCL) Honorary Academic Visitor (Oxford)
+role: Senior Histology Manager UCL Honorary Academic Visitor Oxford
 social:
 - icon: envelope
   icon_pack: fas
