@@ -42,8 +42,6 @@ date_format = "Jan 2006"
  
    <b>Click <i>Employment Experience for a full detailed summary.</i></b>
 
-
-"""
 	
 [[experience]]
   title = "Honorary Academic Visitor"
@@ -51,9 +49,10 @@ date_format = "Jan 2006"
   company_url = "https://www.ndcn.ox.ac.uk/"
   location = "Oxford"
   date_start = "2021-05-02"
-  date_end = "2022-09-27"
+  date_end = "2022-09-01"
   description = """
-  Responsibilities include: <br>	
+  Responsibilities include: <br>
+	<br>  
 <b>Current projects:</b> <b>(1)</b> <i> selective vulnerability of subpopulation of neurons in amyotrophic lateral sclerosis, </i> <b>(2)</b> <i>researching how epigenetics underpins cell-state fate and cellular signatures,</i> <b>(4)</b> <i>microproteomics of rare neuronal cell types/tumour samples,</i> 
 	<br>
 
@@ -61,6 +60,8 @@ date_format = "Jan 2006"
 
 
    <b>Click <i>Employment Experience for a full detailed summary.</i></b>
+   
+"""
  
 +++
 
