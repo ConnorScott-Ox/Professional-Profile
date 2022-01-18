@@ -26,8 +26,23 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include: <br>
+  <br>
+  
+ * Set up and established a new research laboratory to allow scientists to perform molecular neuroscience/neuropathology experiments for their desired projects. <br>
+  <br>
+ 
+ * Establishing, managing, and maintaining several core research facilities within NDCN. This includes providing training and troubleshooting.
 
-   
+  
+ * Provide scientific guidance, training, and advice to scientists of all levels. . <br>
+ <br>
+ * Manage laboratory budgets and develop cost-recovery models.   <br>
+  <br>
+ 
+ 
+   <b>Click <i>Employment Experience for a full detailed summary.</i></b>
+
+
 """
  
 +++
