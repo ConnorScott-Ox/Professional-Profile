@@ -20,11 +20,9 @@ interests:
 - Oncology
 name: Connor Scott
 organizations:
-- name: Nuffield Department of Clinical Neurosciences
-  url: "https://www.ndcn.ox.ac.uk/team/connor-scott"
 - name: UK Dementia Research Institute
  url: "https://ukdri.ac.uk/"
-role: Senior Histology Manager / Honorary Academic Visitor
+role: Senior Histology Manager (UCL) / Honorary Academic Visitor (Oxford)
 social:
 - icon: envelope
   icon_pack: fas
