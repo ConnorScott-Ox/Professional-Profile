@@ -17,6 +17,51 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Senior Histology Manager"
+  company = "UK Dementia Research Institute - UCL"
+  company_url = "https://ukdri.ac.uk/centres/ucl"
+  location = "London"
+  date_start = "2021-06-12"
+  date_end = ""
+  description = """
+  Responsibilities include: <br>
+  <br>
+  
+ * Set up and established a new research laboratory to allow scientists to perform molecular neuroscience/neuropathology experiments for their desired projects. <br>
+  <br>
+ * Establish, manage, and maintain several core research equipment within UKDRI UCL. This includes providing training, troubleshooting, and managing access. <br>
+<br>
+ * Provide scientific guidance, training, and advice to scientists of all levels. This takes the form of guidance for general histology, molecular biology, or experimental design. <br>
+ <br>
+ * Responsible for the technical, scientific and governance management of the UK DRI at UCL Histology Facility. <br>
+ <br>
+ * Provide guidance to ensure UCL laboratories are complaint with the Human Tissue Act 2004 and following best practices approved by the Human Tissue Authority.  <br>
+ <br>
+ * Manage laboratory budgets and develop cost-recovery models.   <br>
+  <br>
+ 
+
+
+"""
+
+[[experience]]
+  title = "Honorary Academic"
+  company = "University of Oxford - Nuffield Department of Clinical Neurosciences"
+  company_url = "https://www.ndcn.ox.ac.uk/"
+  location = "Oxford"
+  date_start = ""
+  date_end = ""
+  description = """
+<b>Current projects:</b> <b>(1)</b> <i> Selective vulnerability of subpopulation of neurons in amyotrophic lateral sclerosis, </i> <b>(2)</b> <i>researching how epigenetics underpins cell-state fate and cellular signatures,</i> <b>(3)</b> <i>and microproteomics of rare neuronal cell types/tumour samples.</i> <br>
+	<br>
+
+* Day to day advisory role for post-graduates (MSc/MRes, D.Phil) and post-doctoral scientists. 
+
+
+"""
+   
 [[experience]]
   title = "Senior Research Assistant"
   company = "Nuffield Department of Clinical Neurosciences - University of Oxford"
