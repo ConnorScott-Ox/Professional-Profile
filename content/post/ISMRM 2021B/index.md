@@ -1,5 +1,5 @@
 ---
-abstract: The BigMac dataset is a unique, to be open access resource that includes extensive MRI and densely sampled microscopy data acquired in a single, whole macaque brain. However, the microscopy data currently only informs on the fibre orientations in 2D, precluding 3D reconstruction of the microscopy connectome. Through precise co-registration and joint modelling of the diffusion MRI and microscopy data, this work aims to reconstruct the microscopy fibre orientations in 3D. This will facilitate future determination of the ultra-high resolution, whole brain, microscopy-inspired connectome, which we expect will provide neuroanatomical insight, as well as play a vital role in validating and advancing techniques for in vivo tractography.
+abstract: 
 authors:
 - Amy FD Howard, Istvan N Huszar, Michiel Cottaar, Greg Daubney, Alexandre A Khrapitchev, Rogier B Mars, Jeroen Mollink, <b>Connor Scott</b>, Nicola Sibson, Adele Smart, Jerome Sallet, Saad Jbabdi, and Karla L Miller
 date: "2020-10-10"
