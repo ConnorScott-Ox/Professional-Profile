@@ -1,7 +1,6 @@
 ---
 abstract: 
 authors:
-- Amy FD Howard, Istvan N Huszar, Michiel Cottaar, Greg Daubney, Alexandre A Khrapitchev, Rogier B Mars, Jeroen Mollink, <b>Connor Scott</b>, Nicola Sibson, Adele Smart, Jerome Sallet, Saad Jbabdi, and Karla L Miller
 date: "2020-10-10"
 doi: ""
 featured: false
