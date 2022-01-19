@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2020-10-10" 
-summary: 
+summary: Here, we reconstruct 3D fibre orientations from 2D microscopy images in the BigMac dataset. This will facilitate future determination of the ultra-high resolution microscopy connectome, with applications in basic neuroanatomy and tractography design.
 tags:
 - Source Themes
 title: The microscopy connectome towards 3D PLI tractography in the BigMac dataset
