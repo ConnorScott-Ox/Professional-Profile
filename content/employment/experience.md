@@ -117,7 +117,7 @@ date_format = "Jan 2006"
   
   * Human Brain Dissection.
   * Preforming protein assays to diagnose neurodegenerative diseases in donors.
-  * Performing DNA sequencing on patients to determine the prognosis of brain tumours.
+  * Performing DNA sequencing on tumours to help guide the treatment plan of patients.
   * Interviewing, teaching and training new staff.
 """
 
@@ -130,8 +130,8 @@ date_format = "Jan 2006"
   date_end = "2013-08-01"
   description = """ Laboratory support for the Neuropathology and Ocular Pathology Department
 * Generic laboratory support.
-* Assisting in CNS Dissection.
-* Maintaining Stocks and preparing buffers/dyes.
+* Assisting in human CNS Dissection.
+* Maintaining stocks and preparing buffers/dyes.
 * Daily communication with coroners and healthcare professionals.
 """
 

@@ -60,7 +60,6 @@ date_format = "Jan 2006"
 * Day to day advisory role for post-graduates (MSc/MRes, D.Phil) and post-doctoral scientists. 
 
 
-<b>Click <i>Employment Experience for a full detailed summary.</i></b>
    
 """
  
