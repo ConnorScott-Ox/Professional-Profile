@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2020-10-10" 
-summary: Here, we describe an end-to-end pipeline for the extraction of a histological metric from IHC stains to quantify a microstructural feature. We compare the pipeline's reproducibility and robustness to histology artefacts, relative to manual MRI-histology analyses.
+summary: Here, we reconstruct 3D fibre orientations from 2D microscopy images in the BigMac dataset. This will facilitate future determination of the ultra-high resolution microscopy connectome, with applications in basic neuroanatomy and tractography design.
 tags:
 - Source Themes
 title: The microscopy connectome towards 3D PLI tractography in the BigMac dataset
@@ -32,7 +32,7 @@ url_video: ""
 
 Comparison of MRI to stained tissue slides from the same sample provides insight into the cellular and molecular correlates of MRI signals, which are notoriously non-specific. Immunohistochemistry (IHC) is a histological staining technique that uses diaminobenzidine (DAB) to stain a target protein brown, and hematoxylin to counterstain background tissue purple. While many studies use IHC to validate MR measures, there is no standardised pipeline for extracting quantitative metrics from IHC slides, with most analyses requiring manual intervention1,2,3.
 
-The stained area fraction (SAF) is a common metric that counts how many pixels in a digitised slide correspond to the protein targeted by DAB. SAF is quantified by separating hematoxylin and DAB stains using literature-based colour information 4,5,6 before setting a manual threshold for the DAB channel to segment microstructural tissue compartments from non-specific background staining4,5,7. These workflows suffer from issues that compromise robustness and reproducibility, including: inability to capture colour variation, poor robustness to histological artefacts, and inter-operator bias in setting the threshold. 
+The stained area fraction (SAF) is a common metric that counts how many pixels in a digitised slide correspond to the protein targeted by DAB. SAF is quantified by separating hematoxylin and DAB stains using literature-based colour information 4,5,6 before setting a manual threshold for the DAB channel to segment microstructural tissue compartments from non-specific background staining4,5,7. These workflows suffer from issues that compromise robustness and reproducibility, including inability to capture colour variation, poor robustness to histological artefacts, and inter-operator bias in setting the threshold. 
 
 Here, we propose an automated pipeline that receives input RGB images and outputs a SAF map. Key features are: 1) a clustering approach to derive slide-specific colour information, 2) automated determination of the segmentation threshold, and 3) local thresholding to account for within-slide variations. We compare the pipeline’s reproducibility and robustness to previously reported histological quantification workflows.
 
