@@ -2,7 +2,7 @@
 abstract: Immunohistochemistry (IHC) images are often used as a microscopic validation tool for MRI. Acquisition of MRI and IHC in the same ex-vivo tissue sample can enable direct correlation between MRI measures and purported sources of image contrast derived from IHC, ideally at the voxel level. However, most IHC analyses still involve manual intervention (e.g. setting of thresholds). Here, we describe an end-to-end pipeline for automatically extracting stained area fraction maps to quantify the IHC stain for a given microstructural feature. The pipeline has improved reproducibility and robustness to histology artefacts, compared to manual MRI-histology analyses that suffer from inter-operator bias.
 authors:
 - Daniel Kor, Saad Jbabdi, Jeroen Mollink, Istvan Huszar, Menuka Pallebage Gamarallage, Adele Smart, <b>Connor Scott</b>, Olaf Ansorge, Amy Howard, Karla L. Miller
-date: "2020-10-09"
+date: "2020-10-10"
 doi: ""
 featured: false
 image:
@@ -14,7 +14,7 @@ publication: ''
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-10-09" 
+publishDate: "2020-10-10" 
 summary: Here, we describe an end-to-end pipeline for the extraction of a histological metric from IHC stains to quantify a microstructural feature. We compare the pipeline's reproducibility and robustness to histology artefacts, relative to manual MRI-histology analyses.
 tags:
 - Source Themes
