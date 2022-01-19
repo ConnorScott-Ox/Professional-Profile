@@ -28,40 +28,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
-<b>Introduction:</b>
 
-Comparison of MRI to stained tissue slides from the same sample provides insight into the cellular and molecular correlates of MRI signals, which are notoriously non-specific. Immunohistochemistry (IHC) is a histological staining technique that uses diaminobenzidine (DAB) to stain a target protein brown, and hematoxylin to counterstain background tissue purple. While many studies use IHC to validate MR measures, there is no standardised pipeline for extracting quantitative metrics from IHC slides, with most analyses requiring manual intervention1,2,3.
-
-The stained area fraction (SAF) is a common metric that counts how many pixels in a digitised slide correspond to the protein targeted by DAB. SAF is quantified by separating hematoxylin and DAB stains using literature-based colour information 4,5,6 before setting a manual threshold for the DAB channel to segment microstructural tissue compartments from non-specific background staining4,5,7. These workflows suffer from issues that compromise robustness and reproducibility, including inability to capture colour variation, poor robustness to histological artefacts, and inter-operator bias in setting the threshold. 
-
-Here, we propose an automated pipeline that receives input RGB images and outputs a SAF map. Key features are: 1) a clustering approach to derive slide-specific colour information, 2) automated determination of the segmentation threshold, and 3) local thresholding to account for within-slide variations. We compare the pipeline’s reproducibility and robustness to previously reported histological quantification workflows.
-
-
-<b>Methods:</b>
-
-Pipeline overview: The pipeline consists of four steps (Figure 1). 1: Slide-specific RGB colour vectors for both stains are derived via k-means clustering (k=2) 9. 2: Stains are separated using colour deconvolution10 with non-negativity constraints. 3: The structure-specific DAB is segmented from non-specific background staining using an automatically determined threshold (methods outlined below). 4: SAFs, defined as the ratio of the positive pixels in the cell mask to the area outside of the tissue mask, are calculated in patches to form a map. 
-
-Thresholding methods: We compared three thresholding methods for Step 3. All cases are based on Otsu’s method11 for separating foreground from background pixels. 1. Global thresholding estimates and applies a slide-specific threshold by applying Otsu to the slide’s DAB density histogram. 2. Local thresholding aims to account for variations in the DAB intensity across slides by adapting the threshold to local neighbourhoods. Local thresholds become more sensitive to histogram features, necessitating two refinements. First, we found Otsu performs better after pre-filtering the background stain with a Gaussian-2-inverse-gamma mixture model12. Second, Otsu fails when given histograms for ‘singleclass’ columns (background only); these columns are detected using a weighted object variance13, and a slide-wide default threshold is used. 3. Batchwise thresholding is the most common manual method, where a trained operator optimises a threshold by eye on multiple slides before applying it to the entire dataset. We simulate this by taking the median of all slides’ default thresholds. 
-
-Acquisition and basic processing: We acquired an IHC dataset to test reproducibility, consisting of 26 slides from 7 human brains. For each brain, 3-4 adjacent slides (6 μm thick) were sectioned from the primary motor cortex (face region). Slides were stained for activated microglia (CD68) and then scanned with a digital scanner (2.5x2.5cm2;0.5μm/pixel). These images exhibited vertical intensity variations introduced by the background light intensity. Consequently, our local method applies Otsu to column-wise histograms (32-pixels wide). Adjacent slides from the same subject were co-registered8 and compared pixelwise to assess the SAF maps’ reproducibility, under the assumption that adjacent slides are similar at the SAF map resolution (128-512μm). 
-
-Pipeline evaluation: The pipeline was evaluated for reproducibility and robustness. For all methods, absolute difference maps of SAF between co-registered adjacent slides were computed to evaluate reproducibility. Robustness to artefacts is measured with the coefficient of variation (COV, the standard deviation divided by the mean). Since our images exhibited strongest variation along the horizontal direction, we collapse the vertical dimension by calculating the column-wise average SAF before calculating the COV across this horizontal plot. We compare local thresholding to global and batch-wise thresholding using a COV ratio, where values >1 indicate reduced horizontal variation for the local method and an increased robustness to artefacts (both slow drift and vertical striping).
-
-<b>Discussion and Results:</b>
-
-Figure 2 visually compares stain separation with colour information derived from literature or the slide. 
-
-Figure 3 shows the absolute difference maps for all pairwise comparisons using local thresholding. The adjacent SAF maps are generally similar, particularly within the white matter (~20% error). The largest errors are at tissue edges, suggesting residual misalignment that may bias comparisons. This indicates good reproducibility.
-
-Figure 4 shows that the median percentage change was observed to be around 30% for all methods. The local method produces the lowest variance across all subjects, indicating a higher consistency in the difference of SAF maps. This suggests that the local method produces more alike SAF maps between adjacent slides. 
-
-Figure 5 highlights the COV ratio comparing local thresholding with both batchwise (dashed) and global (solid) thresholding. This COV ratio is >1 for 20 out of 26 slides, indicating that the COV is reliably lower when using local thresholding. This suggests reduced impact of artefacts in SAF maps if a local thresholding method is used.
-
-<b>Conclusions and Future Work:</b>
-
-We have developed a fully-automated pipeline for generating SAF maps. Our results suggest some benefit in using local over global thresholds. Future works will consider other stains targeting myelin, iron and neurofilaments, and their pixelwise correlation with MRI data7.
-
-<b>References:</b>
 <b>Introduction:</b>
 
 Multimodal datasets, which combine diffusion MRI (dMRI) and microscopy data that offers a ‘ground truth’ estimate of the connectome, provide a unique opportunity to both assess the performance of tractography and, crucially, drive algorithm design. To facilitate fair comparison, the multimodal data is ideally i) acquired in the same single brain with ii) whole brain coverage, iii) the microscopy and MRI data are co-registered together with high precision and iv) the microscopy is informative of the 3D connectome and not limited to 2D analysis (as is typical with many 2D microscopy techniques).
