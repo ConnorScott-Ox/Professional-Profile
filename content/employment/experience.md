@@ -37,7 +37,7 @@ date_format = "Jan 2006"
  <br>
  * Responsible for the technical, scientific and governance management of the UK DRI at UCL Histology Facility. <br>
  <br>
- * Provide guidance to ensure UCL laboratories are complaint with the Human Tissue Act 2004 and following best practices approved by the Human Tissue Authority.  <br>
+ * Provide guidance to ensure UCL laboratories are compliant with the Human Tissue Act 2004 and following best practices approved by the Human Tissue Authority.  <br>
  <br>
  * Manage laboratory budgets and develop cost-recovery models.   <br>
   <br>
