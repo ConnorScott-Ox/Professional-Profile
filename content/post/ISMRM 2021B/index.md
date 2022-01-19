@@ -18,7 +18,7 @@ publishDate: "2020-10-10"
 summary: Here, we describe an end-to-end pipeline for the extraction of a histological metric from IHC stains to quantify a microstructural feature. We compare the pipeline's reproducibility and robustness to histology artefacts, relative to manual MRI-histology analyses.
 tags:
 - Source Themes
-title: Automatic extraction of reproducible semi-quantitative histological metrics for MRI-histology correlations
+title: The microscopy connectome: towards 3D PLI tractography in the BigMac dataset
 url_code: ""
 url_dataset: ""
 url_pdf: 
