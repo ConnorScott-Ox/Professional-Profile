@@ -30,11 +30,11 @@ date_format = "Jan 2006"
   
  * Set up and established a new research laboratory to allow scientists to perform molecular neuroscience/neuropathology experiments for their desired projects. <br>
   <br>
- 
- * Establish, manage, and maintaining several core research equipment within UKDRI UCL. This includes providing training to scientists of all levels, troubleshooting, and managing access. <br>
+ * Establish, manage, and maintain several core research equipment within UKDRI UCL. This includes providing training, troubleshooting, and managing access. <br>
 <br>
-  
  * Provide scientific guidance, training, and advice to scientists of all levels. This takes the form of guidance for general histology, molecular biology, or experimental design. <br>
+ <br>
+ * Responsible for the technical, scientific and governance management of the UK DRI at UCL Histology Facility. <br>
  <br>
  * Provide guidance to ensure UCL laboratories are complaint with the Human Tissue Act 2004 and following best practices approved by the Human Tissue Authority.  <br>
  <br>
@@ -42,17 +42,17 @@ date_format = "Jan 2006"
   <br>
  
  
-   <b>Click <i>Employment Experience for a full detailed summary.</i></b>
+<b>Click <i>Employment Experience for a full detailed summary.</i></b>
 
 """
 
 [[experience]]
-  title = "Honorary Academic Visitor"
+  title = "Honorary Academic"
   company = "University of Oxford - Nuffield Department of Clinical Neurosciences"
   company_url = "https://www.ndcn.ox.ac.uk/"
   location = "Oxford"
   date_start = "2021-05-02"
-  date_end = "2022-09-01"
+  date_end = ""
   description = """
 <b>Current projects:</b> <b>(1)</b> <i> Selective vulnerability of subpopulation of neurons in amyotrophic lateral sclerosis, </i> <b>(2)</b> <i>researching how epigenetics underpins cell-state fate and cellular signatures,</i> <b>(3)</b> <i>and microproteomics of rare neuronal cell types/tumour samples.</i> <br>
 	<br>
@@ -60,7 +60,7 @@ date_format = "Jan 2006"
 * Day to day advisory role for post-graduates (MSc/MRes, D.Phil) and post-doctoral scientists. 
 
 
-   <b>Click <i>Employment Experience for a full detailed summary.</i></b>
+<b>Click <i>Employment Experience for a full detailed summary.</i></b>
    
 """
  
