@@ -1,7 +1,9 @@
 ---
 abstract: 
 authors:
-- Benjamin C Tendler, Taylor Hanayik, Olaf Ansorge, Sarah Christensen, Gregory Berns, Mads Bertelsen, Katherine Bryant, Sean Foxley, Martijn van den Heuvel, Amy Howard, Istvan Huszar, Alexandre Khrapitchev, Anna Leonte, Paul Manger, Ricarda Menke, Jeroen Mollink, Duncan Mortimer, Menuka Pallebage Gamarallage, Lea Roumazeilles, Jerome Sallet, Lianne Scholtens, Connor Scott, Adele Smart, Martin Turner, Chaoyue Wang, Saad Jbabdi, Rogier Mars, Karla Miller
+- Benjamin C Tendler
+- Taylor Hanayik
+- Olaf Ansorge
 date: "2022-01-01"
 doi: ""
 featured: true
