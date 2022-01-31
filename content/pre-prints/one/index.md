@@ -2,7 +2,7 @@
 abstract: 
 authors:
 -  
-date: ""
+date: "2022-01-01"
 doi: ""
 featured: true
 image:
@@ -13,8 +13,8 @@ projects: []
 publication: 
 publication_short: ""
 publication_types:
-- "1"
-publishDate: ""
+- "2"
+publishDate: "2022-01-01"
 summary: 
 tags:
 - Source Themes
