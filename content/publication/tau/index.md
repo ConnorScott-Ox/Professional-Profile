@@ -3,7 +3,14 @@ abstract: <b>Background:</b> <br>Multimerization is a key process in prion-like 
 
 
 authors:
-- Nora Bengoa-Vergniory, Elisavet Velentza-Almpani, Ana Maria Silva, <b>Connor Scott</b>, Mariana Vargas-Caballero, Magdalena Sastre, Richard Wade-Martins, Javier Alegre-Abarrategui
+- Nora Bengoa-Vergniory
+- Elisavet Velentza-Almpani
+- Ana Maria Silva
+- <b>Connor Scott</b>
+- Mariana Vargas-Caballero
+- Magdalena Sastre 
+- Richard Wade-Martins
+- Javier Alegre-Abarrategui
 date: "2021-01-01T00:00:00Z"
 doi: "https://doi.org/10.1186/s40478-020-01117-y"
 featured: false
