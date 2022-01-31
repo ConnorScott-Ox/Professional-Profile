@@ -13,7 +13,7 @@ projects: []
 publication: 
 publication_short: ""
 publication_types:
-- "2"
+- "1"
 publishDate: ""
 summary: 
 tags:
