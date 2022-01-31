@@ -6,13 +6,13 @@ image:
   focal_point: Smart
 #links:
 # - icon: graduation-cap
- - url: 
+# - url: https://www.some.ox.ac.uk/
 slides: 
 summary: 
 tags:
 - Professional
 title: Editor - English Editing Service
-url_code: ""
+url_code: "http://en.mogoedit.com/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
