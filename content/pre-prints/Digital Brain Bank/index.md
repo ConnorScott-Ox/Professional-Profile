@@ -1,12 +1,12 @@
 ---
 abstract: 
 authors:
--  Benjamin C. Tendler, Taylor Hanayik, Olaf Ansorge, Sarah Bangerter-Christensen, Gregory S. Berns, Mads F. Bertelsen, Katherine L. Bryant, Sean Foxley, Martijn P. van den Heuvel, Amy F.D. Howard, Istvan N. Huszar, Alexandre A. Khrapitchev, Anna Leonte, Paul R. Manger, Ricarda A.L. Menke, Jeroen Mollink, Duncan Mortimer, Menuka Pallebage-Gamarallage, Lea Roumazeilles, Jerome Sallet, Lianne H. Scholtens, <b>Connor Scott</b>, Adele Smart, Martin R. Turner, Chaoyue Wang, Saad Jbabdi, Rogier B. Mars, Karla L. Miller
+-  Benjamin C. Tendler, Taylor Hanayik, Olaf Ansorge, Sarah Bangerter Christensen, Gregory S. Berns, Mads F. Bertelsen, Katherine L. Bryant, Sean Foxley, Martijn P. van den Heuvel, Amy F.D. Howard, Istvan N. Huszar, Alexandre A. Khrapitchev, Anna Leonte, Paul R. Manger, Ricarda A.L. Menke, Jeroen Mollink, Duncan Mortimer, Menuka Pallebage-Gamarallage, Lea Roumazeilles, Jerome Sallet, Lianne H. Scholtens, <b>Connor Scott</b>, Adele Smart, Martin R. Turner, Chaoyue Wang, Saad Jbabdi, Rogier B. Mars, Karla L. Miller
 date: "2022-01-22T00:00:00Z"
-doi: "10.1021/acs.jproteome.8b00981"
+doi: ""
 featured: true
 image:
-  caption: 'Image credit: Simon Davis'
+  caption: 'Image credit: Benjamin Tendler'
   focal_point: ""
   preview_only: false
 projects: []
