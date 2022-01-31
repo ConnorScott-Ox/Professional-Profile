@@ -21,7 +21,7 @@ tags:
 title: The Digital Brain Bank, an open access platform for post-mortem datasets
 url_code: ""
 url_dataset: ""
-url_pdf: https://doi.org/10.1101/2021.06.21.449154
+url_pdf: "https://doi.org/10.1101/2021.06.21.449154"
 url_poster: ""
 url_project: ""
 url_slides: ""
