@@ -18,7 +18,7 @@ publishDate: ""
 summary: 
 tags:
 - Source Themes
-title: The Digital Brain Bank, an open access platform for post-mortem datasets
+title: The Digital Brain Bank an open access platform for post-mortem datasets
 url_code: ""
 url_dataset: ""
 url_pdf: ""
