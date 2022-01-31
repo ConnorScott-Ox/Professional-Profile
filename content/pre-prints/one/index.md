@@ -1,7 +1,7 @@
 ---
 abstract: 
 authors:
-- 
+- Benjamin C Tendler, Taylor Hanayik, Olaf Ansorge
 date: "2022-01-01"
 doi: ""
 featured: true
