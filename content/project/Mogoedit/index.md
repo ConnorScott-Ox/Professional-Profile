@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 #links:
 # - icon: graduation-cap
- - url: http://en.mogoedit.com/
+ - url: 
 slides: 
 summary: 
 tags:
