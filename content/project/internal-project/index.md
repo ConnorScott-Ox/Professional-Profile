@@ -30,7 +30,7 @@ https://www.bns.org.uk/eqa-scheme/   <br>
 
 <b>My Role:</b> <br>
 <br>
-I am the principal administrator for the BNS NEQAS UK Scheme. Microscope slides from predetermined cases are whole slide scanned, anonymised and uploaded to the appropriate PATHXL server. Using the PathXL platform I design the exam environment, add clinical histories, alternative staining slides, add questions and manage the permissions of each neuropathologist signed up to the scheme. Everyone’s exam outcome is anonymised, and individuals are given a score on how well they performed along with a breakdown on the total number of correct diagnoses for each case.
+I was the principal administrator for the BNS NEQAS UK Scheme. Microscope slides from predetermined cases are whole slide scanned, anonymised and uploaded to the appropriate PATHXL server. Using the PathXL platform I design the exam environment, add clinical histories, alternative staining slides, add questions and manage the permissions of each neuropathologist signed up to the scheme. Everyone’s exam outcome is anonymised, and individuals are given a score on how well they performed along with a breakdown on the total number of correct diagnoses for each case.
 <br>
 ![pathxl](pathxl.png)
 
