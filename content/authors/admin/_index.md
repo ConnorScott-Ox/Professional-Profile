@@ -24,7 +24,7 @@ organizations:
   url: "https://ukdri.ac.uk/"
 - name: Nuffield Department of Clinical Neurosciences
   url: "https://www.ndcn.ox.ac.uk/" 
-role: Senior Histology Manager (UCL) / Hononary Academic (Oxford)
+role: Senior Histology Manager (UCL) / Hononary Research Fellow (Oxford)
 social:
 - icon: envelope
   icon_pack: fas
