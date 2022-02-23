@@ -45,7 +45,7 @@ date_format = "Jan 2006"
 """
 
 [[experience]]
-  title = "Honorary Academic"
+  title = "Hononary Research Fellow"
   company = "University of Oxford - Nuffield Department of Clinical Neurosciences"
   company_url = "https://www.ndcn.ox.ac.uk/"
   location = "Oxford"
