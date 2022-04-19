@@ -37,12 +37,12 @@ image:
   focal_point: ""
   preview_only: false 
 projects: []
-publication: '*eLIFE sciences'
+publication: 'eLIFE sciences'
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2022-01-02T00:00:00Z"
-summary: 
+summary: Post mortem MRI provides the opportunity to acquire high resolution datasets to investigate neuroanatomy, and validate the origins of image contrast through microscopy comparisons. We introduce the Digital Brain Bank (open.win.ox.ac.uk/DigitalBrainBank), a data release platform providing open access to curated, multimodal post-mortem neuroimaging datasets. 
 stags:
 - Source Themes
 title: The Digital Brain Bank, an open access platform for post-mortem datasets
