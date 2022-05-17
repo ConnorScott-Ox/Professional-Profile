@@ -13,11 +13,11 @@ education:
 
 email: "connor.scott@ndcn.ox.ac.uk"
 interests:
-- Cell Biology
-- Machine Learning
-- Molecular Biology
-- Neurodegeneration
-- Oncology
+- Bioinformatics / Machine Learning
+- Cell Biology / Molecular Biology
+- Histology
+- Neurodegeneration / Oncology
+- Proteomics / Transciptomics 
 name: Connor Scott
 organizations:
 - name: UK Dementia Research Institute
