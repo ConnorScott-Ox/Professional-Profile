@@ -24,23 +24,25 @@ date_format = "Jan 2006"
   company_url = "https://ukdri.ac.uk/centres/ucl"
   location = "London"
   date_start = "2021-06-12"
-  date_end = ""
+  date_end = "2023-01-04"
   description = """
+  <i>Queen Square is Ranked 1st in Europe, 2nd Worldwide for Neuroscience.</i>
+  <br>
   Responsibilities include: <br>
   <br>
   
- * Set up and established a new research laboratory to allow scientists to perform molecular neuroscience/neuropathology experiments for their desired projects. <br>
-  <br>
- * Establish, manage, and maintain several core research equipment within UKDRI UCL. This includes providing training, troubleshooting, and managing access. <br>
+*	Designed, established, and managed a state-of-the-art research laboratory, enabling scientists to conduct advanced molecular neuroscience and histology experiments for human and mouse ex-vivo projects. <br>
 <br>
- * Provide scientific guidance, training, and advice to scientists of all levels. This takes the form of guidance for general histology, molecular biology, or experimental design. <br>
- <br>
- * Responsible for the technical, scientific and governance management of the UK DRI at UCL Histology Facility. <br>
- <br>
- * Provide guidance to ensure UCL laboratories are compliant with the Human Tissue Act 2004 and following best practices approved by the Human Tissue Authority.  <br>
- <br>
- * Manage laboratory budgets and develop cost-recovery models.   <br>
-  <br>
+* Oversaw and maintained multiple core research facilities, ensuring optimal functionality and resource availability. <br>
+<br>
+* Provided scientific guidance, training, and consultation to researchers at all levels, covering neurodegenerative animal models, human tissue research, histology,  molecular biology, bioinformatics, and experimental design.<br>
+<br>
+* Conducted ex vivo experiments using neurodegenerative mouse models, focusing on basic research and disease pathology. <br>
+<br>
+Led the technical, scientific, and governance management of the UCL UKDRI Histology Facility, ensuring high standards and operational excellence.<br>
+<br>
+*	Ensured laboratories across UCL UKDRI complied with the Human Tissue Act 2004, adhering to best practices approved by the Human Tissue Authority. <br>
+<br>
  
 """
 
