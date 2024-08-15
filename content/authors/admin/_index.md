@@ -11,7 +11,7 @@ education:
     institution: University of Greenwich
     year: 2012
 
-email: "connor.scott@ndcn.ox.ac.uk"
+email: "connor.david.scott@gmail.com"
 interests:
 - Bioinformatics / Machine Learning
 - Cell Biology / Molecular Biology
@@ -20,11 +20,11 @@ interests:
 - Proteomics / Transciptomics 
 name: Connor Scott
 organizations:
-- name: UK Dementia Research Institute
-  url: "https://ukdri.ac.uk/"
+- name: Alkermes
+  url: "https://www.alkermes.com"
 - name: Nuffield Department of Clinical Neurosciences
   url: "https://www.ndcn.ox.ac.uk/" 
-role: Senior Histology Manager (UCL) / Honorary Research Fellow (Oxford)
+role: Functional Neuroanatomy Scientist (Alkermes) / Honorary Research Fellow (Oxford)
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,6 +44,10 @@ user_groups:
 - Visitors
 --- 
 
-Connor Scott is a neuroscientist with over 9 years working in the biomedical field. He has extensive experience with human tissue, histology, molecular biology, and cellular biology. He specialises in bringing traditional histology into the modern era by developing workflows to bridge neuropathology with multiple 'omic' technologies using clinical, surgical, and post-mortem CNS material.
+Connor Scott is a seasoned neuroscientist with over 11 years of specialized expertise in ex vivo investigations, including extensive human tissue research, molecular biology, and mass spectrometry. 
 
-Scroll down to see a brief overview of his academic profile or click on the headings above to get a more in-depth view.
+His career has been dedicated to unraveling the molecular complexities underlying neurodegenerative diseases through innovative research projects and drug discovery programs. His proficiency spans the fields of histology, neuropathology, neurobiology, and various multi-omics techniques. 
+
+He specializes in the following indications: Alzheimer's Disease, Parkinson's Disease, Frontotemporal Dementia, Amyotrophic Lateral Sclerosis, Narcolepsy, and Schizophrenia. 
+
+Scroll down to see a brief overview of his professional profile or click on the headings above to see a detailed summary.

@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   description = """
   <i>Queen Square is Ranked 1st in Europe, 2nd Worldwide for Neuroscience.</i><br>
   <br>
-  Responsibilities include: <br>
+  Responsibilities included: <br>
   <br>
   
 *	Designed, established, and managed a state-of-the-art research laboratory, enabling scientists to conduct advanced molecular neuroscience and histology experiments for human and mouse ex-vivo projects. <br>
@@ -70,7 +70,7 @@ Led the technical, scientific, and governance management of the UCL UKDRI Histol
   date_start = "2015-06-01"
   date_end = "2021-05-01"
   description = """
-  Responsibilities include: <br>
+  Responsibilities included: <br>
   <br>
   
  * Senior Research Scientist. <br>
