@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Senior Histology Manager"
+  title = "Senior Histology Manager "
   company = "UK Dementia Research Institute - UCL"
   company_url = "https://ukdri.ac.uk/centres/ucl"
   location = "London"
