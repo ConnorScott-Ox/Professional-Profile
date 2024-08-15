@@ -51,7 +51,6 @@ Led the technical, scientific, and governance management of the UCL UKDRI Histol
 *	Ensured laboratories across UCL UKDRI complied with the Human Tissue Act 2004, adhering to best practices approved by the Human Tissue Authority. <br>
 <br>
  
-
 """
 
 [[experience]]
