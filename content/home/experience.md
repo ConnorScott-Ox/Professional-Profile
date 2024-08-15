@@ -30,13 +30,15 @@ date_format = "Jan 2006"
   Responsibilities include: <br>
   <br>
   
-*	Demonstrates leadership in experimental design,, execution, and analysis, leveraging extensive expertise in human disease, histological methods, and neurobiology to advance preclinical programs by discovering suitable pharmacodynamic markers and determining target validation/engagement for clinical candidate delivery.<br>
+*	Demonstrating leadership in experimental design, planning, execution, and analysis. 
+
+* Leveraging extensive expertise in human disease, ex vivo investigation, and neurobiology to advance preclinical drug programs by discovering suitable pharmacodynamic markers, determining target validation/engagement, and testing hypotheses to better understand drug mechanism of action.<br>
 <br>
-* Collaborate closely with the wider Research team to evaluate molecular and biochemical endpoints, driving comprehensive project assessments and strategic decision-making.<br>
+* Working closely with the R&D team to evaluate molecular and biochemical endpoints, delivering strategic recommendations that advanced preclinical drug development.<br>
 <br>
-*	Drive innovation through the adoption of cutting-edge techniques to better utilize transgenic models, human tissue, or animals dosed with different pharmacologies.<br>
+*	Drive innovation through the adoption of cutting-edge techniques to better utilize human tissues, transgenic models, or animals dosed with different pharmacologies.<br>
 <br>
-*	Led project management for key research programs, including planning and overseeing experimental timelines, coordinating contracting, managing compound shipments, and ensuring timely delivery of final reports in collaboration with CROs.<br>
+*	Provide project management for key research programs, including planning and overseeing experimental timelines, coordinating contracting, managing compound shipments, and ensuring timely delivery of final reports in collaboration with CROs.<br>
 <br>
 * Write and review technical documents for drug nomination and IND applications.
  
