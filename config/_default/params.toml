@@ -81,19 +81,20 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "connor.scott@ndcn.ox.ac.uk"
+email = "connor.david.scott@gmail.com"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Neuropathology Department, Level One, West Wing, John Radcliffe Hospital", city = "Oxford", region = "Oxfordshire", postcode = "OX3 9DU", country = "United Kingdom", country_code = "UK"}
+address = {city = "Boston", region = "United States"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.765249", longitude = "-1.222526"}
+coordinates = {latitude = "42.359968523850426", longitude = "-71.0590775538748"}
+
 
 # Directions for visitors to locate you.
-directions = "Enter either West Wing or Children's Hospital Entrance, go to Level One and ring the bell."
+#directions = "Enter either West Wing or Children's Hospital Entrance, go to Level One and ring the bell."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
