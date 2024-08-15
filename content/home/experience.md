@@ -30,11 +30,11 @@ date_format = "Jan 2006"
   Responsibilities include: <br>
   <br>
   
-*	Demonstrating leadership in experimental design, planning, execution, and analysis. 
-
-* Leveraging extensive expertise in human disease, ex vivo investigation, and neurobiology to advance preclinical drug programs by discovering suitable pharmacodynamic markers, determining target validation/engagement, and testing hypotheses to better understand drug mechanism of action.<br>
+*	Demonstrating leadership in experimental design, planning, execution, and analysis. <br>
 <br>
-* Working closely with the R&D team to evaluate molecular and biochemical endpoints, delivering strategic recommendations that advanced preclinical drug development.<br>
+* Leveraging extensive expertise in human disease, neurobiology, and ex vivo investigations to advance preclinical drug programs by discovering suitable pharmacodynamic markers, determining target validation/engagement, and testing hypotheses to better understand how pharmaceutical mechanism of action.<br>
+<br>
+* Collaborating with the wider R&D team to evaluate biochemical, molecular, and in vivo endpoints andßΩ providing strategic guidance to drive the progression of preclinical drug development.<br>
 <br>
 *	Drive innovation through the adoption of cutting-edge techniques to better utilize human tissues, transgenic models, or animals dosed with different pharmacologies.<br>
 <br>
