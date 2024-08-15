@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_start = "2021-06-12"
   date_end = "2023-01-04"
   description = """
-  <i>Queen Square is Ranked 1st in Europe, 2nd Worldwide for Neuroscience.</i>
+  <i>Queen Square is Ranked 1st in Europe, 2nd Worldwide for Neuroscience.</i><br>
   <br>
   Responsibilities include: <br>
   <br>
