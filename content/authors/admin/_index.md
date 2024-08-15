@@ -48,6 +48,6 @@ Connor Scott is a seasoned neuroscientist with over 11 years of specialized expe
 
 His career has been dedicated to unraveling the molecular complexities underlying neurodegenerative diseases through innovative research projects and drug discovery programs. His proficiency spans the fields of histology, neuropathology, neurobiology, and various multi-omics techniques. 
 
-He specializes in the following indications: Alzheimer's Disease, Parkinson's Disease, Frontotemporal Dementia, Amyotrophic Lateral Sclerosis, Narcolepsy, and Schizophrenia. 
+He specializes in the following indications: Alzheimer's Disease, Parkinson's Disease, Frontotemporal Dementia, Amyotrophic Lateral Sclerosis, Narcolepsy, Schizophrenia and Glioblastoma Multiforme. 
 
 Scroll down to see a brief overview of his professional profile or click on the headings above to see a detailed summary.
