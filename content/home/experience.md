@@ -18,30 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Senior Histology Manager"
-  company = "UK Dementia Research Institute - UCL"
-  company_url = "https://ukdri.ac.uk/centres/ucl"
-  location = "London"
-  date_start = "2021-06-12"
-  date_end = "2023-01-04"
+  title = "Scientist - Functional Neuroanatomy"
+  company = "Alkermes"
+  company_url = "https://www.alkermes.com"
+  location = "Boston"
+  date_start = "2023-01-02"
+  date_end = ""
   description = """
-  <i>Queen Square is Ranked 1st in Europe, 2nd Worldwide for Neuroscience.</i><br>
+  <i>Alkermes is a global biopharmaceutical company developing innovative medicines in the fields of neurology and psychiatry with revenues north of ~$1 billion.</i><br>
   <br>
-  Responsibilities included: <br>
+  Responsibilities include: <br>
   <br>
   
-*	Designed, established, and managed a state-of-the-art research laboratory, enabling scientists to conduct advanced molecular neuroscience and histology experiments for human and mouse ex-vivo projects. <br>
+*	Demonstrates leadership in experimental design,, execution, and analysis, leveraging extensive expertise in human disease, histological methods, and neurobiology to advance preclinical programs by discovering suitable pharmacodynamic markers and determining target validation/engagement for clinical candidate delivery.<br>
 <br>
-* Oversaw and maintained multiple core research facilities, ensuring optimal functionality and resource availability. <br>
+* Collaborate closely with the wider Research team to evaluate molecular and biochemical endpoints, driving comprehensive project assessments and strategic decision-making.<br>
 <br>
-* Provided scientific guidance, training, and consultation to researchers at all levels, covering neurodegenerative animal models, human tissue research, histology,  molecular biology, bioinformatics, and experimental design.<br>
+*	Drive innovation through the adoption of cutting-edge techniques to better utilize transgenic models, human tissue, or animals dosed with different pharmacologies.<br>
 <br>
-* Conducted ex vivo experiments using neurodegenerative mouse models, focusing on basic research and disease pathology. <br>
+*	Led project management for key research programs, including planning and overseeing experimental timelines, coordinating contracting, managing compound shipments, and ensuring timely delivery of final reports in collaboration with CROs.<br>
 <br>
-Led the technical, scientific, and governance management of the UCL UKDRI Histology Facility, ensuring high standards and operational excellence.<br>
-<br>
-*	Ensured laboratories across UCL UKDRI complied with the Human Tissue Act 2004, adhering to best practices approved by the Human Tissue Authority. <br>
-<br>
+* Write and review technical documents for drug nomination and IND applications.
  
 """
 
