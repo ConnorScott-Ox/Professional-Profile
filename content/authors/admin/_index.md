@@ -13,10 +13,10 @@ education:
 
 email: "connor.david.scott@gmail.com"
 interests:
-- Bioinformatics / Machine Learning
+- Drug Discovery / Drug Development
 - Cell Biology / Molecular Biology
-- Histology
-- Neurodegeneration / Oncology
+- Histology / Neuropathology
+- Neurodegeneration / Psychiatry
 - Proteomics / Transciptomics 
 name: Connor Scott
 organizations:
@@ -24,7 +24,7 @@ organizations:
   url: "https://www.alkermes.com"
 - name: Nuffield Department of Clinical Neurosciences
   url: "https://www.ndcn.ox.ac.uk/" 
-role: Functional Neuroanatomy Scientist (Alkermes) / Honorary Research Fellow (Oxford)
+role: Scientist (Alkermes) / Honorary Research Fellow (Oxford)
 social:
 - icon: envelope
   icon_pack: fas
