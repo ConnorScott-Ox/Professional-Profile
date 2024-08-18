@@ -34,7 +34,7 @@ date_format = "Jan 2006"
 <br>
 * Leveraging extensive expertise in human disease, neurobiology, and ex vivo investigations to advance preclinical drug programs by discovering suitable pharmacodynamic markers, determining target validation/engagement, and testing hypotheses to better understand how pharmaceutical mechanism of action.<br>
 <br>
-* Collaborating with the wider R&D team to evaluate biochemical, molecular, and in vivo endpoints andßΩ providing strategic guidance to drive the progression of preclinical drug development.<br>
+* Collaborating with the wider R&D team to evaluate biochemical, molecular, and in vivo endpoints and providing strategic guidance to drive the progression of preclinical drug development.<br>
 <br>
 *	Drive innovation through the adoption of cutting-edge techniques to better utilize human tissues, transgenic models, or animals dosed with different pharmacologies.<br>
 <br>
@@ -53,12 +53,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 <b>Current projects:</b> 
-<br><b>(1)</b> <i> Selective vulnerability of subpopulation of neurons in amyotrophic lateral sclerosis. </i> 
-<br><b>(2)</b> <i> Researching how epigenetics underpins cell-state fate and cellular signatures.</i> 
-<br><b>(3)</b> <i> Microproteomics of rare neuronal cell types/tumour samples.</i> <br>
-	<br>
-
-* Day to day advisory role for post-graduates (MSc/MRes, D.Phil) and post-doctoral scientists. 
+<br><i> Selective vulnerability of subpopulation of neurons in amyotrophic lateral sclerosis anf frontotemporal dementia. </i> 
 
 
    
