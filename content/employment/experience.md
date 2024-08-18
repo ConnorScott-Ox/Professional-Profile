@@ -19,6 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Scientist - Functional Neuroanatomy"
+  company = "Alkermes"
+  company_url = "https://www.alkermes.com"
+  location = "Boston"
+  date_start = "2023-01-02"
+  date_end = ""
+  description = """
+  <i>Alkermes is a global biopharmaceutical company developing innovative medicines in the fields of neurology and psychiatry with revenues north of ~$1 billion.</i><br>
+  <br>
+  Responsibilities include: <br>
+  <br>
+  
+*	Demonstrating leadership in experimental design, planning, execution, and analysis. <br>
+<br>
+* Leveraging extensive expertise in human disease, neurobiology, and ex vivo investigations to advance preclinical drug programs by discovering suitable pharmacodynamic markers, determining target validation/engagement, and testing hypotheses to better understand how pharmaceutical mechanism of action.<br>
+<br>
+* Collaborating with the wider R&D team to evaluate biochemical, molecular, and in vivo endpoints and providing strategic guidance to drive the progression of preclinical drug development.<br>
+<br>
+*	Drive innovation through the adoption of cutting-edge techniques to better utilize human tissues, transgenic models, or animals dosed with different pharmacologies.<br>
+<br>
+*	Provide project management for key research programs, including planning and overseeing experimental timelines, coordinating contracting, managing compound shipments, and ensuring timely delivery of final reports in collaboration with CROs.<br>
+<br>
+* Write and review technical documents for drug nomination and IND applications.
+ 
+"""
+
+[[experience]]
   title = "Senior Histology Manager"
   company = "UK Dementia Research Institute - UCL"
   company_url = "https://ukdri.ac.uk/centres/ucl"
@@ -54,10 +81,8 @@ Led the technical, scientific, and governance management of the UCL UKDRI Histol
   date_start = "2021-05-02"
   date_end = ""
   description = """
-<b>Current projects:</b> <b>(1)</b> <i> Selective vulnerability of subpopulation of neurons in amyotrophic lateral sclerosis, </i> <b>(2)</b> <i>researching how epigenetics underpins cell-state fate and cellular signatures,</i> <b>(3)</b> <i>and microproteomics of rare neuronal cell types/tumour samples.</i> <br>
+<b>Current projects:</b> <i> Selective vulnerability of subpopulation of neurons in amyotrophic lateral sclerosis, </i> 
 	<br>
-
-* Day to day advisory role for post-graduates (MSc/MRes, D.Phil) and post-doctoral scientists. 
 
 
 """
