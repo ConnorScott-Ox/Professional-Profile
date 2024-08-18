@@ -27,9 +27,12 @@ date_format = "Jan 2006"
   description = """
   <i>Alkermes is a global biopharmaceutical company developing innovative medicines in the fields of neurology and psychiatry with revenues north of ~$1 billion.</i><br>
   <br>
-  Responsibilities include: <br>
+  Overview of Position: <br>
   <br>
-  
+  As a scientist within the CNS Biology Group, I lead ex vivo experiments using rodent and human brain tissue to support drug discovery and development. My multifaceted role spans several disciplines and incorporates a diverse range of techniques, including immunohistochemistry, in situ hybridization, spatial transcriptomics, receptor occupancy assessment, and MALDI Imaging.<br>
+  <br>
+  Responsibilities include: <br>
+  <br> 
 *	Demonstrating leadership in experimental design, planning, execution, and analysis. <br>
 <br>
 * Leveraging extensive expertise in human disease, neurobiology, and ex vivo investigations to advance preclinical drug programs by discovering suitable pharmacodynamic markers, determining target validation/engagement, and testing hypotheses to further understand the mechanism of action of different pharmaceuticals.<br>
