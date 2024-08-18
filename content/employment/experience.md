@@ -30,14 +30,14 @@ date_format = "Jan 2006"
   <br>
   Overview of Position: <br>
   <br>
-  Test Test Test
+  As a scientist within the CNS Biology Group, I lead ex vivo experiments using rodent and human brain tissue to support drug discovery and development. My multifaceted role spans several disciplines and incorporates a diverse range of techniques, including immunohistochemistry, in situ hybridization, spatial transcriptomics, receptor occupancy assessment, and MALDI Imaging.<br>
   <br>
   Responsibilities include: <br>
   <br>
   
 *	Demonstrating leadership in experimental design, planning, execution, and analysis. <br>
 <br>
-* Leveraging extensive expertise in human disease, neurobiology, and ex vivo investigations to advance preclinical drug programs by discovering suitable pharmacodynamic markers, determining target validation/engagement, and testing hypotheses to better understand how pharmaceutical mechanism of action.<br>
+* Leveraging extensive expertise in human disease, neurobiology, and ex vivo investigations to advance preclinical drug programs by discovering suitable pharmacodynamic markers, determining target validation/engagement, and testing hypotheses to further understand the mechanism of action of different pharmaceuticals.<br>
 <br>
 * Collaborating with the wider R&D team to evaluate biochemical, molecular, and in vivo endpoints and providing strategic guidance to drive the progression of preclinical drug development.<br>
 <br>
