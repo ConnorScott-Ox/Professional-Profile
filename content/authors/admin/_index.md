@@ -28,7 +28,7 @@ role: Scientist (Alkermes) / Honorary Research Fellow (Oxford)
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'connor.david.scott@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ConnorScott_OX
