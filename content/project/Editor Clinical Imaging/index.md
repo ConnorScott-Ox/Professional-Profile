@@ -1,6 +1,6 @@
 ---
 date: "2018-02-25T00:00:00Z"
-external_link: ""
+external_link: "https://www.frontiersin.org/journals/neuroimaging"
 image:
   caption: 
   focal_point: Smart
@@ -12,13 +12,12 @@ summary: Editorial Review Editor - Frontiers in Neuroimaging (Clinical Neuroimag
 tags:
 - PeerReview
 title: Review Editor - Frontiers in Neuroimaging (Clinical Neuroimaging)
-url_code: "https://www.frontiersin.org/journals/neuroimaging"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
 
-![BrainImaging](s.jpg)
 
 
