@@ -10,7 +10,7 @@ image:
 slides: 
 summary: 
 tags:
-- Professional
+- PeerReview
 title: Editor - English Editing Service
 url_code: ""
 url_pdf: ""

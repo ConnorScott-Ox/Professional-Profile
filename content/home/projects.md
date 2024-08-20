@@ -32,6 +32,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Professional"
     tag = "Professional"
+    
+  [[content.filter_button]]
+    name = "Peer Review"
+    tag = "PeerReview"
 	
   [[content.filter_button]]
     name = "Public Engagement"
