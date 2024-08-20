@@ -30,7 +30,7 @@ subtitle = ""
     tag = "Leadership"
   
   [[content.filter_button]]
-    name = "Professional"
+    name = "Projects"
     tag = "Professional"
     
   [[content.filter_button]]
