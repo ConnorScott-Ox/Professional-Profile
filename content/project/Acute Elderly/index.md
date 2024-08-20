@@ -1,6 +1,6 @@
 ---
 #date: "2018-02-25T00:00:00Z"
-external_link: ""
+external_link: "https://www.nhs.uk"
 image:
   caption: 
   focal_point: Smart

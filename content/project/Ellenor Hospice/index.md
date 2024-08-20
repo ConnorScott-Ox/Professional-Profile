@@ -1,6 +1,6 @@
 ---
 #date: "2018-02-25T00:00:00Z"
-external_link: ""
+external_link: "https://ellenor.org"
 image:
   caption: 
   focal_point: Smart
@@ -11,7 +11,7 @@ slides:
 summary: 
 tags:
 - Volunteering
-title: Volunteer - Ellenor Hospice.
+title: Ellenor Hospice.
 url_code: ""
 url_pdf: ""
 url_slides: ""
