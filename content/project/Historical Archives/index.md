@@ -8,7 +8,7 @@ image:
 # icon: graduation-cap
 #url: "https://cslide.medsci.ox.ac.uk/items/view/1005"
 slides: 
-summary: Digital microscopist for these historic collections.<i> Click for more information. </i>
+summary: Digital microscopist for these historic collections.<br><br> <i> Click for more information. </i>
 tags:
 - Professional
 title: Sir Charles Sherrington and Sir Wilfrid Le Gros Clark Collections
