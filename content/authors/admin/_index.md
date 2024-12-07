@@ -50,6 +50,6 @@ His career has been dedicated to unraveling the molecular complexities underlyin
 
 He specializes in the following indications: Alzheimer's Disease, Parkinson's Disease, Frontotemporal Dementia, Amyotrophic Lateral Sclerosis, Narcolepsy, Schizophrenia and Glioblastoma Multiforme. 
 
-![Connor’s Research Overview](Ex vivo.png)
+![Connor’s Research Overview](ex-vivo.png)
 
 <i>Scroll down to see a brief overview of his professional profile or click on the headings above to see a detailed summary.</i>
