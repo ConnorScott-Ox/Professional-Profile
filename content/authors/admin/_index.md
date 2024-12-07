@@ -46,7 +46,7 @@ Connor is a recognised subject matter expert in:
 <br>
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="/img/ex-vivo.png" alt="Connor’s Research Overview" style="width:600px; height:auto;">
+    <img src="/img/ex-vivo.png" alt="Connor’s Research Overview" style="width:650px; height:auto;">
 </div>
 <br>
 

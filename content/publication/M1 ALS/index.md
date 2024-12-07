@@ -14,7 +14,7 @@ authors:
 - Olaf Ansorge
 date: "2020-07-02T00:00:00Z"
 doi: "https://doi.org/10.1186/s40478-020-00961-2"
-featured: true
+featured: false
 image:
   caption:
   focal_point: ""
