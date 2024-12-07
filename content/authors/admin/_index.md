@@ -44,14 +44,14 @@ user_groups:
 - Visitors
 --- 
 
-Connor Scott is a seasoned neuroscientist with over 11 years of specialized expertise in ex vivo investigations, including extensive human tissue research, molecular biology, and mass spectrometry. 
+Connor Scott is an experienced neuroscientist with over 12 years of expertise in ex vivo investigations, with extensive experience with human tissue research, molecular biology, and mass spectrometry.
 
-His career has been dedicated to unraveling the molecular complexities underlying neurodegenerative diseases through innovative research projects and drug discovery programs. His proficiency spans the fields of histology, neuropathology, neurobiology, and various multi-omics techniques. 
+He has dedicated his career to uncovering the molecular mechanisms of neurodegenerative and psychiatric disorders through cutting-edge research and drug discovery initiatives.
+
+Connor is a recognized subject matter expert in:
+
+<img src="/img/ex-vivo.png" alt="Connor’s Research Overview" style="width:650px; height:auto;">
 
 He specializes in the following indications: Alzheimer's Disease, Parkinson's Disease, Frontotemporal Dementia, Amyotrophic Lateral Sclerosis, Narcolepsy, Schizophrenia and Glioblastoma Multiforme. 
-
-He is a subject matter expert in the following:
-
-<img src="/img/ex-vivo.png" alt="Connor’s Research Overview" style="width:500px; height:auto;">
 
 <i>Scroll down to see a brief overview of his professional profile or click on the headings above to see a detailed summary.</i>
