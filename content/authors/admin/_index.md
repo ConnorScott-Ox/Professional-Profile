@@ -51,10 +51,10 @@ He has dedicated his career to uncovering the molecular mechanisms of neurodegen
 Connor is a recognised subject matter expert in:
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="/img/ex-vivo.png" alt="Connor’s Research Overview" style="width:300px; height:auto;">
+    <img src="/img/ex-vivo.png" alt="Connor’s Research Overview" style="width:650px; height:auto;">
 </div>
 <br>
 
-He specialises in the following indications: Alzheimer's Disease, Frontotemporal Dementia, Amyotrophic Lateral Sclerosis, Narcolepsy, Schizophrenia and Glioblastoma Multiforme. 
+He also specialises in the following indications: Alzheimer's Disease, Frontotemporal Dementia, Amyotrophic Lateral Sclerosis, Narcolepsy, Schizophrenia and Glioblastoma Multiforme. 
 
 <i>Scroll down to see a brief overview of his professional profile or click on the headings above to see a detailed summary.</i>
