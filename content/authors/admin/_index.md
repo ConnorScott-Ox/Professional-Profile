@@ -26,12 +26,6 @@ organizations:
   url: "https://www.ndcn.ox.ac.uk/" 
 role: Scientist (Alkermes) / Honorary Research Fellow (Oxford)
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'connor.david.scott@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ConnorScott_OX
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Connor_Scott4
