@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
-title = "Conference Abstracts"
+title = "Recent Abstracts"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "abstracts"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 3
   
   # Choose how many pages you would like to offset by
   offset = 0
