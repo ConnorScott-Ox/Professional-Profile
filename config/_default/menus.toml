@@ -9,7 +9,7 @@
 #  weight = 10
 
 [[main]]
-  name = "Employment Experience"
+  name = "Career History"
   url = "/Employment"
   weight = 10
 
