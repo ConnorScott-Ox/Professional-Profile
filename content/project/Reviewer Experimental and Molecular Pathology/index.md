@@ -8,7 +8,7 @@ image:
 # - icon: graduation-cap
 # - url: https://www.some.ox.ac.uk/
 slides: 
-summary: We welcome research addressing questions related to human pathology, with a particular emphasis on the preclinical aspects, in: biology (cellular, molecular), biochemistry, genetics (epi), genomics, virology, immunology, and oncology.
+summary: We welcome research addressing questions related to human pathology, with a particular emphasis on the preclinical aspects, in biology (cellular, molecular), biochemistry, genetics (epi), genomics, virology, immunology, and oncology.
 tags:
 - PeerReview
 title: Peer Reviewer - Experimental and Molecular Pathology
