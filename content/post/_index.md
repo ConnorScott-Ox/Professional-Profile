@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Conference posters/abstracts
+title: Conference Abstracts
 view: 2 
 ---
