@@ -17,13 +17,13 @@ subtitle = ""
 [[feature]]
   icon = "dna"
   icon_pack = "fas"
-  name = "qPCR"
+  name = "Spatial Transcriptomics"
   description = ""
 
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "Neuropathology - Human Tissue"
+  name = "Neuropathology"
   description = ""
   
  [[feature]]
