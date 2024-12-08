@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Test
+title: Preprints
 view: 2
 ---
