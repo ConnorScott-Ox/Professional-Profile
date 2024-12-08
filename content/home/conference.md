@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering abstracts/posters]({{< ref "/post/_index.md" >}}).
+Quickly discover relevant content by [filtering abstracts/posters]({{< ref "/abstracts/_index.md" >}}).
 {{% /alert %}}
