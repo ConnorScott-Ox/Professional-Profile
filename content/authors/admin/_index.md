@@ -38,11 +38,11 @@ user_groups:
 - Visitors
 --- 
 
-Connor Scott is an experienced neuroscientist with over 12 years of expertise in ex vivo investigations, with extensive experience with human tissue research, molecular biology, and mass spectrometry.
+Connor Scott is an experienced neuroscientist with over 12 years of expertise in <b>ex vivo research</b>, specialising in the analysis of human and rodent tissue, histology, molecular biology, and mass spectrometry.
 
-He has dedicated his career to uncovering the molecular mechanisms of neurodegenerative and psychiatric disorders through cutting-edge research and drug discovery initiatives.
+Throughout his career, Connor has been dedicated to advancing our understanding of the <b>molecular mechanisms underlying neurodegenerative and psychiatric disorders</b>. His work spans cutting-edge research initiatives and innovative drug discovery programs aimed at uncovering novel therapeutic solutions.
 
-Connor is a recognised subject matter expert in:
+Connor is a recognised <b>subject matter expert</b> in:
 <br>
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -50,6 +50,8 @@ Connor is a recognised subject matter expert in:
 </div>
 <br>
 
-He also specialises in the following indications: Alzheimer's Disease, Frontotemporal Dementia, Amyotrophic Lateral Sclerosis, Narcolepsy, Schizophrenia and Glioblastoma Multiforme. 
+Connor’s research encompasses some of the most challenging and impactful areas of neuroscience, including neurodegenerative conditions such as <b>Alzheimer's disease</b>, <b>frontotemporal dementia</b>, and <b>amyotrophic lateral sclerosis (ALS)</b>. He also brings significant expertise to psychiatric disorders like <b>schizophrenia</b> and complex diseases with neurological components such as <b>narcolepsy</b> and <b>glioblastoma multiforme</b>.
 
-<i>Scroll down to see a brief overview of his professional profile or click on the headings above to see a detailed summary.</i>
+With a passion for advancing neuroscience and a track record of impactful contributions, Connor continues to drive innovation at the intersection of research and drug discovery.
+
+<i>Scroll down to see a overview of his professional contributions or click on the headings above to see a detailed overview.</I>
