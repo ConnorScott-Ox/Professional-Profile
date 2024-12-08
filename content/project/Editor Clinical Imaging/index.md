@@ -11,7 +11,7 @@ slides:
 summary: Frontiers in Neuroimaging is a multidisciplinary journal focused on expanding research on the physiological principles underlying typical and atypical brain functions to decrease the global burden of brain disorders.
 tags:
 - PeerReview
-title: Review Editor - Frontiers in Neuroimaging (Clinical Neuroimaging)
+title: Editorial Board - Frontiers in Neuroimaging (Clinical Neuroimaging)
 url_code: ""
 url_pdf: ""
 url_slides: ""

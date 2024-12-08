@@ -11,7 +11,7 @@ slides:
 summary: Frontiers in Neuroanatomy publishes research revealing important aspects of the anatomical organization of all nervous systems across all species.
 tags:
 - PeerReview
-title: Review Editor - Frontiers in Neuroanatomy
+title: Editorial Board - Frontiers in Neuroanatomy
 url_code: ""
 url_pdf: ""
 url_slides: ""
